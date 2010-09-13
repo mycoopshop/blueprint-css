@@ -25,6 +25,8 @@ by pehbehbeh
 **Spanish:**
 * "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/
 by Leandro Donofrio
+* "Manual de Blueprint CSS":http://www.desarrolloweb.com/manuales/manual-blueprint-css.html
+by Miguel Angel Alvarez
 
 **Italian:**
 * "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html
