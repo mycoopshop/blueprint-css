@@ -6,5 +6,5 @@
 * "Wireframework":http://adactio.com/journal/1332 by Jeremy Keith
 * "New Generator Tool Makes Blueprint CSS More Flexible":http://blog.wired.com/monkeybites/2007/09/new-generator-t.html by Scott Gilbertson
 * "On Blueprint":http://www.wellactually.net/code/2007/08/on-blueprint/ by George Lesica
-* "First Impressions of the Blueprint CSS Framework":http://www.stonemind.net/blog/2007/08/25/first-impressions-of-the-blueprint-css-framework/ and "Further Impressions of the Blueprint CSS Framework ":http://www.stonemind.net/blog/2008/08/08/further-impressions-of-the-blueprint-css-framework/ by Adam Smith (The second article contains important corrections to the first.)
+* "Further Impressions of the Blueprint CSS Framework ":http://www.stonemind.net/blog/2008/08/08/further-impressions-of-the-blueprint-css-framework/ by Adam Smith
 * "Blueprint CSS Framework vs YUI Grids":http://foohack.com/2007/08/blueprint-css-framework-vs-yui-grids/ by Isaac Schlueter
