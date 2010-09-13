@@ -27,5 +27,5 @@ If you have a browser issue, please make sure that you have tested it with the m
 * more OSes and browsers;
 * should we test obsolete browsers such as IE for Mac?
 * mobile devices anyone?
-* use screenshots? where should they be hosted?
+* use screenshots? host them on the "Blueprintcss Google Group":http://groups.google.com/group/blueprintcss/files
 * is the test done on the latest tag,or on the trunk?
