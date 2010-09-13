@@ -7,6 +7,7 @@
 * "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/ [Spanish] by Leandro Donofrio
 * "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html [Italian]
 * "Blueprint -- CSS Framework":http://tinyurl.com/bpchinesetut [Chinese]
+* "Z czym się je Blueprint`a - frameworka CSS":http://apng.pl/blog/wpis/z_czym-sie_je_Blueprinta_frameworka_CSS [Polish]
 * "Traduction du quick-start tutorial - démarrage rapide avec blueprint":http://www.pasunclou.com/2008/09/01/demarrage-rapide-avec-blueprint/ [French]
 * "Designing with Blueprint CSS and the GIMP":http://dontclickonme.com/2009/01/web-development-with-the-gimp-and-blueprint-css/ [English] Needs some checking, leave a comment.
 * "Wordpress Sandbox and Blueprint":http://blog.nedsferatu.com/wordpress-sandbox-and-blueprint by Nedsferatu
