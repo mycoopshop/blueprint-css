@@ -1,1 +1,13 @@
-Welcome to the blueprint-css wiki!
+Blueprint is a *CSS framework*, which aims to cut down on your CSS development time. It gives you a solid CSS foundation to build your project on top of, with an easy-to-use grid, sensible typography, and even a stylesheet for printing.
+
+###Features:###
+
+    * An easily customizable grid
+    * Sensible typography
+    * Relative font-sizes everywhere
+    * A typographic baseline
+    * An extendable plugin system
+    * Perfected CSS reset
+    * A stylesheet for printing
+    * Powerful scripts for customizing your layout
+    * No bloat of any kind 
