@@ -6,5 +6,5 @@ Blueprint is a *CSS framework*, which aims to cut down on your CSS development t
 * [[Plugins]] for example, to make the grid fluid or add sprites
 * [[Themes and Frameworks]] to get a quick start with Drupal, Wordpress, etc.
 * [[Mods, Forks and Alternatives]] if Blueprint is not quite your thing
-* [[Browser compatibility list]] 
+* [[Browser Compatibility List]] for checking if Blueprint is compatible with your audience
 * [[License]] Read the modified MIT License that applies to Blueprint
