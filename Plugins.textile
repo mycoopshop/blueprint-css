@@ -1,4 +1,4 @@
-h2. Core plugins 
+h3. Core plugins 
 
 Blueprint comes with a handful of plugins "out of the box." These include: 
 
@@ -7,7 +7,7 @@ Blueprint comes with a handful of plugins "out of the box." These include:
 * Buttons 
 * Link Icons (like filetypes, external, etc)
 
-h2. More plugins 
+h3. More plugins 
 
 More plugins, in various states of development, can be found on Github. They are: 
 
