@@ -1,4 +1,5 @@
 * [[Quick-Start Tutorial]]
+* "A Closer Look At the Blueprint CSS Framework":http://nettuts.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/ by Jesse Storimer
 * "Blueprint CSS 101":http://blueflavor.com/blog/2007/oct/24/blueprint-css-101/ by Jeff Croft
 * "Hands on with Blueprint, a CSS Framework":http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/ by Larry Kubin (stale link) (use "archive.org":http://web.archive.org/web/20080202054019/http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/)
 * "Three Column CSS Layout with Blueprint Framework":http://www.frinity.com/posts/css/design-three-column-css-layout-using-blueprint-framework by Fahad Ibnay Heylaal
