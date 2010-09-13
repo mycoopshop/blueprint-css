@@ -12,3 +12,4 @@
 * "Designing with Blueprint CSS and the GIMP":http://dontclickonme.com/2009/01/web-development-with-the-gimp-and-blueprint-css/ [English] Needs some checking, leave a comment.
 * "Wordpress Sandbox and Blueprint":http://blog.nedsferatu.com/wordpress-sandbox-and-blueprint by Nedsferatu
 * "Blueprint CSS: pár kroků k ulehčení kodérské práce":http://www.vzhurudolu.cz/archiv/2005-2008/www.vzhurudolu.cz/83/blueprint-css-5-kroku-k-ulehceni-koderske-prace.html [Czech] by Martin Michálek
+* "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide [English] by Jason Swartz
