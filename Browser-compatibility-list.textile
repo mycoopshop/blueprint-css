@@ -1,6 +1,6 @@
 This is still a draft. Feel free to improve it.
 
-|_. OS |_. browser |_. browser version | _. blueprint version |_. results  |_. notes |
+|_. OS |_. browser |_. browser version |_. blueprint version |_. results  |_. notes |
 | Windows | Internet Explorer | 8  | 0.8 | n/a |  |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok |  |
 | Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok |  |
@@ -10,6 +10,6 @@ This is still a draft. Feel free to improve it.
 | OSX | Safari | x | 0.8 |  |  |
 
 Todo list:
-# more OSses and browsera
-# decide if we should include OS version
+# more OSses and browsers;
+# decide if we should include OS version;
 # use screenshots? where should it be hosted?
