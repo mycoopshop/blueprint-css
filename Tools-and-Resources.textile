@@ -1,14 +1,14 @@
 ###Cheat Sheets and Templates###
 
 * "Blueprint CSS Cheat Sheet":http://www.digitart.net/blueprintcss/bluebrintcss.pdf [PDF, 40kb] "(mirror)":http://blueprintcss.org/blueprint-cheat-sheet.pdf
-* "Photoshop Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps
-* "Illustrator Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps
+* "Photoshop Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps/
+* "Illustrator Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/
 * "Blueprint CSS Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
 
 ###Code Generators###
 
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
-* "Blueprint CSS Architect":http://theyoungbostons.com/dustin/archives/blueprint-css-architect-the-easy-way-to-layout-your-websites
+* "Blueprint CSS Architect":http://theyoungbostons.com/dustin/archives/blueprint-css-architect-the-easy-way-to-layout-your-websites/
 
 ###Layout Editors (WYSIWYG)###
 
@@ -22,5 +22,5 @@
 
 ###Javascript Background Grid Switchers/Togglers###
 
-* "Blueprint CSS + jQuery":http://tomster.org/blog/archive/2008/04/26/blueprint-css-jquery
-* "Bookmarklet to toggle the Blueprint CSS Background Grid":http://www.sanityinc.com/articles/bookmarklet-to-toggle-blueprint-css-grid
+* "Blueprint CSS + jQuery":http://tomster.org/blog/archive/2008/04/26/blueprint-css-jquery/
+* "Bookmarklet to toggle the Blueprint CSS Background Grid":http://www.sanityinc.com/articles/bookmarklet-to-toggle-blueprint-css-grid/
