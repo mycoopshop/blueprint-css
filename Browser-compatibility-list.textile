@@ -7,9 +7,8 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Windows | Google Chrome | 0.4.154.29 | 0.8 | ok |  |
 | Windows | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
 | Windows | Opera | 9.6.2 build 10467| 0.8 | no | typography: a anchor no cursor change |
-| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | n/a |  |
-| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | n/a |  |
-| OS X | Camino | 2007112812 (1.5.4) | 0.8 | n/a |  |
+| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | ok |  |
+| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | ok |  |
 | Linux | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
 | Linux | Epiphany | 2.22.3 | 0.8 | ok |  |
 | Linux | Konqueror | 3.5.9 | 0.8 | ok |  |
