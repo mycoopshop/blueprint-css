@@ -35,6 +35,9 @@ by Leandro Donofrio
 **Polish:**
 * "Z czym się je Blueprint`a - frameworka CSS":http://apng.pl/blog/wpis/z_czym-sie_je_Blueprinta_frameworka_CSS
 
+**Portuguese Brazilian:**
+* "Blueprint – Inicio Rápido":http://www.geniusdeveloper.com.br/css/2010/05/blueprint-inicio-rapido/
+
 **Czech**
 * "Blueprint CSS: pár kroků k ulehčení kodérské práce":http://www.vzhurudolu.cz/archiv/2005-2008/www.vzhurudolu.cz/83/blueprint-css-5-kroku-k-ulehceni-koderske-prace.html
 by Martin Michálek
