@@ -1,1 +1,13 @@
+###Cheat Sheets and Templates###
+
 * "Blueprint CSS Cheat Sheet":http://www.digitart.net/blueprintcss/bluebrintcss.pdf [PDF, 40kb] "(mirror)":http://blueprintcss.org/blueprint-cheat-sheet.pdf
+* "Photoshop Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps
+
+###Code Generators###
+
+* "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
+
+###Layout Editors (WYSIWYG)###
+
+* "Construct":http://constructyourcss.com/
+* "Blueprint Layout Tool":http://www.blueprintlayouttool.com/
