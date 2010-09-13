@@ -8,7 +8,7 @@
 ###Code Generators###
 
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
-* "Blueprint CSS Architect":http://theyoungbostons.com/dustin/archives/blueprint-css-architect-the-easy-way-to-layout-your-websites/
+* "Blueprint CSS Architect":http://theyoungbostons.com/dustin/archives/the-new-blueprint-css-architect-is-now-easier-than-ever/
 
 ###Layout Editors (WYSIWYG(What You See Is What You Get))###
 
