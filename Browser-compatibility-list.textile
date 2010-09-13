@@ -1,15 +1,18 @@
-This is still a draft. Feel free to improve it.
+This is still a draft. Feel free to improve it. Don't rely on it.
 
 |_. OS |_. browser |_. browser version |_. blueprint version |_. results  |_. notes |
 | Windows | Internet Explorer | 8  | 0.8 | n/a |  |
-| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok |  |
-| Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok |  |
+| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | winXPpro |
+| Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok | winserver2003 |
 | Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
-| Windows | Google Chrome | 0.4.154.29 | 0.8 | ok |  |
-| Linux | Firefox | 3.0 | 0.8 |  |  |
-| OSX | Safari | x | 0.8 |  |  |
+| Windows | Google Chrome | 0.4.154.29 | 0.8 | ok | winXPpro |
+| Linux | Firefox | 3.0 | 0.8 | n/a |  |
+| OSX | Safari | 3.2.1 (4525.27.1) | 0.8 | ok | os x 10.4 |
+| OSX | Firefox | 2.0.0.18 | 0.8 | ok | os x 10.4 |
 
 Todo list:
-# more OSses and browsers;
+# state test method
+# offer way to report bug/incompatibility
+# more OSes and browsers;
 # decide if we should include OS version;
 # use screenshots? where should it be hosted?
