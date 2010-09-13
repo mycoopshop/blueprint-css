@@ -16,7 +16,7 @@ by Nedsferatu
 by Jason Swartz
 
 **German:**
-* "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/2010/01/10/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/
+* "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/webentwicklung/html-css/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/
 by pehbehbeh
 
 **French:**
