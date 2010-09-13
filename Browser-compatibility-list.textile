@@ -63,7 +63,7 @@ If you have a browser issue, please make sure that you have tested it with the m
 *OK syntax*
 <pre>
 <code>
-
+ !http://blueprintcss.org/img/ok.png(ok)!
 </code>
 </pre>
 
