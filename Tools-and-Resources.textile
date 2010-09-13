@@ -12,3 +12,7 @@
 
 * "Construct":http://constructyourcss.com/
 * "Blueprint Layout Tool":http://www.blueprintlayouttool.com/
+
+###Language-specific Utilities###
+
+* "CSS Mixin PHP Script":http://habilis.net/cssmixin/ Mixes CSS classes to provide more meaningful styles
