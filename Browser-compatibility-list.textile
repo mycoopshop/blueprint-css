@@ -1,7 +1,7 @@
 This is a list of browsers and OS on which Blueprint CSS has been / should be tested:
-|_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. results  |_. notes |
+|_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. pass  |_. notes |_. screenshots |
 | Windows | Internet Explorer | 8  | 0.8 | n/a | untested |
-| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | XP pro SP3|
+| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | XP pro SP3| "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png|
 | Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok | server 2003 |
 | Windows | Internet Explorer | 5.5 | 0.8 | n/a | untested |
 | Windows | Google Chrome | 0.4.154.29 | 0.8 | ok | XP pro SP3 |
