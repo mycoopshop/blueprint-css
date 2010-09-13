@@ -1,1 +1,2 @@
 * "Boilerplate":http://code.google.com/p/css-boilerplate/ A stripped-down version of Blueprint
+* "Bluetrip":http://capsizedesigns.com/blog/2008/04/bluetripcss-a-fusion-of-blueprint-and-tripoli/ a fusion of blueprint and "Tripoli":http://devkick.com/lab/tripoli/.
