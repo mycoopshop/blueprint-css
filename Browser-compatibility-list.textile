@@ -1,17 +1,17 @@
 This is a list of browsers and OS on which Blueprint CSS has been / should be tested:
 |_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. pass  |_. notes |
 | Windows | Internet Explorer | 8.0.6001.18241  | 0.8 | no | typography: del does not <del>strikethrough</del> |
-| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | |
+| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! | |
 | Windows | Internet Explorer | 6.0.379.0 | 0.8 | no | typography: abbr no extended text when mouseover |
 | Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
-| Windows | Google Chrome | 0.4.154.29 | 0.8 | ok |  |
-| Windows | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
+| Windows | Google Chrome | 0.4.154.29 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Windows | Mozilla Firefox | 3.0.4 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Windows | Opera | 9.6.2 build 10467| 0.8 | no | typography: a anchor no cursor change |
-| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | ok |  |
-| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | ok |  |
-| Linux | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
-| Linux | Epiphany | 2.22.3 | 0.8 | ok |  |
-| Linux | Konqueror | 3.5.9 | 0.8 | ok |  |
+| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Mozilla Firefox | 3.0.4 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Epiphany | 2.22.3 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Konqueror | 3.5.9 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 9.62 2466 | 0.8 | no | typography: a anchor no cursor change |
 
 *Test method:*
@@ -26,6 +26,13 @@ If you have a browser issue, please make sure that you have tested it with the m
 *Screenshots for 0.7.1:*
 * Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
 * Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
+
+*OK syntax*
+<pre>
+<code>
+!http://blueprintcss.org/img/ok.png(ok)!
+</code>
+</pre>
 
 *Todo list:*
 * IE8 IE6 Opera fail the test for what may be a native browser shortcoming and not a blueprint issue. Need confirmation.
