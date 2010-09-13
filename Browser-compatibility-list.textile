@@ -45,7 +45,7 @@ If you have a browser issue, please make sure that you have tested it with the m
 *Screenshots for 0.7.1:*
 * Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
 * Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
-*Tested - Screenshots for 0.9.1:*
+*Tested - Screenshots for 0.9.1:*  Find them at: http://groups.google.com/group/blueprintcss/files
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-sample-gc4unstable.png |  |
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-form.png |  |
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-grid.png |  |
@@ -63,7 +63,7 @@ If you have a browser issue, please make sure that you have tested it with the m
 *OK syntax*
 <pre>
 <code>
-!http://blueprintcss.org/img/ok.png(ok)!
+
 </code>
 </pre>
 
