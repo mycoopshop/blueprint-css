@@ -13,12 +13,12 @@ This is a list of browsers and OS on which Blueprint CSS has been tested:
 | OSX | Camino | 2007112812 (1.5.4) | 0.8 | ok | os x 10.4 |
 
 The test method is:
-* open the test page http://blueprintcss.org/tests/ in the target browser;
+* open the "blueprint test page":http://blueprintcss.org/tests/ in the target browser;
 * open each of the child test pages;
 * check that each page displays correctly.
 
 Todo list:
-# offer way to report bug/incompatibility
+# offer way to report bug/incompatibility and contribute
 # more OSes and browsers;
 # decide if we should include OS version;
 # use screenshots? where should it be hosted?
