@@ -14,4 +14,5 @@ h3. Themes
 h3. Frameworks
 
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
+* "Yii":http://www.yiiframework.com/ Fast and flexible php framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
