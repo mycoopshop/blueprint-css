@@ -17,6 +17,20 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Linux | Konqueror | 3.5.9 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 9.62 2466 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 
+*Tested - Screenshots for 0.9.1:*
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-sample-gc4unstable.png |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-form.png |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-grid.png |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-typography.png |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | ff-3.5.8pre-sample.png |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | ff-3.5.8pre-grid.png |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | ff-3.5.8pre-forms.png |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | ff-3.5.8pre- elements.png |  |
+| Linux | Opera | 10.10 | 0.9.1 | opera 10.10 sample.png |  |
+| Linux | Opera | 10.10 | 0.9.1 | opera 10.10 grid.png |  |
+| Linux | Opera | 10.10 | 0.9.1 | opera 10.10 form.png |  |
+| Linux | Opera | 10.10 | 0.9.1 | opera 10.10 elements.png |  |
+
 *Test method:*
 The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
 
