@@ -1,11 +1,11 @@
-###Themes###
+h2. Themes
 
 * "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal]
 * "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress]
 * "Blueprint Wordpress Theme":http://signified.net/blueprint-wordpress-theme/ [Wordpress]
 * "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
 
-###Frameworks###
+h2. Frameworks
 
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
