@@ -15,4 +15,5 @@
 
 ###Language-specific Utilities###
 
-* "CSS Mixin PHP Script":http://habilis.net/cssmixin/ Mixes CSS classes to provide more meaningful styles
+* "CSS Mixin PHP Script":http://habilis.net/cssmixin/ [PHP] Mixes CSS classes to provide more meaningful styles
+* "Blueprint CSS Rails Generator":http://ariejan.net/2007/08/27/blueprintcss-rails-generator/ [Ruby on Rails]
