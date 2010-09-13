@@ -16,7 +16,35 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Linux | Epiphany | 2.22.3 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Konqueror | 3.5.9 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 9.62 2466 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)!|  |
+| Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 
+
+
+!http://blueprintcss.org/img/ok.png(ok)!
+
+*Test method:*
+The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
+
+*Contributing:*
+You can improve this list by repeating and validating the tests, testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
+
+*Bug/issue reports:*
+If you have a browser issue, please make sure that you have tested it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
+
+*Screenshots for 0.7.1:*
+* Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
+* Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
 *Tested - Screenshots for 0.9.1:*
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-sample-gc4unstable.png |  |
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | bcl-gc4unstable-form.png |  |
@@ -31,18 +59,6 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Linux | Opera | 10.10 | 0.9.1 | opera 10.10 form.png |  |
 | Linux | Opera | 10.10 | 0.9.1 | opera 10.10 elements.png |  |
 
-*Test method:*
-The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
-
-*Contributing:*
-You can improve this list by repeating and validating the tests, testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
-
-*Bug/issue reports:*
-If you have a browser issue, please make sure that you have tested it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
-
-*Screenshots for 0.7.1:*
-* Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
-* Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
 
 *OK syntax*
 <pre>
