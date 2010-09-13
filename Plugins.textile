@@ -1,3 +1,16 @@
-* "Buttons":http://github.com/Montoya/blueprint-plugin---buttons/tree Create great looking CSS Buttons
-* "Liquid Blueprint":http://github.com/Montoya/blueprint-plugin---liquidgrid/tree Makes the Blueprint Grid liquid (fluid)
-* "SilkSprite":http://github.com/Montoya/blueprint-plugin---silksprite/tree Integrates the Silk Icons set as sprites
+h2. Core plugins 
+
+Blueprint comes with a handful of plugins "out of the box." These include: 
+
+* Fancy Type 
+* RTL (right-to-left text and column layout support) 
+* Buttons 
+* Link Icons (like filetypes, external, etc)
+
+h2. More plugins 
+
+More plugins, in various states of development, can be found on Github. They are: 
+
+* "Tabs":http://github.com/Montoya/blueprint-plugin---tabs/
+* "Liquid Blueprint":http://github.com/Montoya/blueprint-plugin---liquidgrid/ Makes the Blueprint Grid liquid (fluid)
+* "SilkSprite":http://github.com/Montoya/blueprint-plugin---silksprite/ Integrates the Silk Icons set as sprites
