@@ -1,6 +1,7 @@
 __Here's a quick tutorial on how you start using Blueprint.__
 
-###Installation###
+h2. Installation
+
 Blueprint should be put in your site's CSS directory. After you've done that, add these two lines to the <code><head></code> of your web pages. Remember to make sure the href path is correct:
 
 <pre>
@@ -13,7 +14,7 @@ Blueprint should be put in your site's CSS directory. After you've done that, ad
 
 Blueprint is now ready for consumption.
 
-###Files in Blueprint###
+h2. Files in Blueprint
 
 The framework has a few files you should check out. Every file in the 'src' directory contains lots of (hopefully) clarifying comments.
 
@@ -42,11 +43,11 @@ The framework has a few files you should check out. Every file in the 'src' dire
   * *blueprint/plugins/*: Contains additional functionality in the form of simple plugins for Blueprint. See individual readme files in the directory of each plugin for further instructions.
   * *tests/*: Contains html files which tests most aspects of Blueprint. Open tests/index.html for further instructions.
 
-###Using Blueprint###
+h2. Using Blueprint
 
 The best way to see how BP is used, is to go through the commented CSS files, or the source code for the example page, which is bundled with the download. However, here are some of the basics:
 
-###The typography###
+h2. The typography
 
 Typography.css does not need any customization: just drop it in, and it'll give you some nice default text styles.
 
@@ -54,7 +55,8 @@ The typography.css file also sets a baseline (line-height) of 18px. This means t
 
 Print.css has some options where you can fill in your domain name, so that relative links are shown in parenthesis behind the text link on print. Without filling in your domain name, only remote URLs work properly.
 
-####The grid####
+h2. The grid
+
 By default, the grid is 950px wide, with 24 columns spanning 30px, and a 10px margin between columns.
 
 If you need fewer or more columns, use the compressor found in lib/compress.rb This file has many options, which are explained in the comments in that file
