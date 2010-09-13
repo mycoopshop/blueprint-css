@@ -1,1 +1,2 @@
-xx
+* "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/ [Spanish] by Leandro Donofrio
+* "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html [Italian]
