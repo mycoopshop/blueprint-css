@@ -1,0 +1,1 @@
+* "Blueprint CSS Cheat Sheet":http://www.digitart.net/blueprintcss/bluebrintcss.pdf [PDF, 40kb] "(mirror)":http://blueprintcss.org/blueprint-cheat-sheat.pdf
