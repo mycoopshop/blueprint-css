@@ -10,7 +10,7 @@ h3. Cheat Sheets and Templates
 * "Illustrator Template for Comps [ BROKEN LINK ]":http://dl.getdropbox.com/u/181087/blueprint_grid.ait
 
 h3. Code Generators
-
+* "GridCalc":http://www.problem.se/labs/gridcalc.php - Grid calculator and generator, generates CSS for Blueprint v0.9.
 * "BlueCalc CSS Generator":http://bluecalc.groupion.com/ -- BlueCalc v0.8 is great, but if you have more than 24 columns you might need to fix grid.css by adding your extra div.span classes to line 46 (and other similar lines)
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
 * "Blueprint CSS Architect [ BROKEN LINK ]":http://dblogit.com/examples/bpa/
