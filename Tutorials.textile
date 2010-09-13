@@ -20,7 +20,7 @@ by Jason Swartz
 by pehbehbeh
 
 **French:**
-* "Traduction du quick-start tutorial - démarrage rapide avec blueprint":http://www.pasunclou.com/2008/09/01/demarrage-rapide-avec-blueprint/
+* "Traduction du quick-start tutorial - démarrage rapide avec blueprint (mis à jour - autre site avait une erreur 404)":http://windowslinux.net/index.php/BluePrint#Tutorial_de_D.C3.A9marrage_rapide
 
 **Spanish:**
 * "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/
