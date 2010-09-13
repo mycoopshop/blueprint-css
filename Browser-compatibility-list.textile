@@ -1,4 +1,4 @@
-This is a list of browsers and OS on which Blueprint CSS has been tested:
+This is a list of browsers and OS on which Blueprint CSS has been / should be tested:
 |_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. results  |_. notes |
 | Windows | Internet Explorer | 8  | 0.8 | n/a | untested |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | XP pro SP3|
@@ -18,10 +18,10 @@ This is a list of browsers and OS on which Blueprint CSS has been tested:
 The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
 
 *Contributing:*
-You can improve this list by testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
+You can improve this list by repeating and validating the tests, testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
 
 *Bug/issue reports:*
-If you have a browser issue, please make sure that you test it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
+If you have a browser issue, please make sure that you have tested it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
 
 Todo list:
 * more OSes and browsers;
