@@ -3,6 +3,6 @@
 * "The Framework Formerly Known as 'Prints":http://www.subtraction.com/archives/2007/0807_the_framewor.php Interview with Olav by Khoi Vinh
 * "Blueprint: A CSS Framework":http://www.markboulton.co.uk/journal/comments/blueprint_a_css_framework/ by Mark Boulton
 * "Wireframework":http://adactio.com/journal/1332 by Jeremy Keith
-* "New Generator Tool Makes Blueprint CSS More Flexible [ BROKEN LINK ]":http://blog.wired.com/monkeybites/2007/09/new-generator-t.html by Scott Gilbertson
+* "New Generator Tool Makes Blueprint CSS More Flexible":http://www.webmonkey.com/2007/09/new_generator_tool_makes_blueprint_css_more_flexible/ by Scott Gilbertson
 * "Further Impressions of the Blueprint CSS Framework":http://www.stonemind.net/blog/2008/08/08/further-impressions-of-the-blueprint-css-framework by Adam Smith
 * "Blueprint CSS Framework vs YUI Grids":http://foohack.com/2007/08/blueprint-css-framework-vs-yui-grids/ by Isaac Schlueter
