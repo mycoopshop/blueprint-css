@@ -2,7 +2,7 @@ __Here's a quick tutorial on how you start using Blueprint.__
 
 h2. Installation
 
-Blueprint should be put in your site's CSS directory. After you've done that, add these two lines to the <code><head></code> of your web pages. Remember to make sure the href path is correct:
+Blueprint should be put in your site's CSS directory. After you've done that, add these three lines to the <code><head></code> of your web pages. Remember to make sure the href path is correct:
 
 <pre>
 <code>
