@@ -1,14 +1,40 @@
+**Official:**
 * [[Quick-Start Tutorial]]
-* "A Closer Look At the Blueprint CSS Framework":http://net.tutsplus.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/ by Jesse Storimer
-* "Hands on with Blueprint, a CSS Framework":http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/ by Larry Kubin (stale link) (use "archive.org":http://web.archive.org/web/20080202054019/http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/)
-* "Three Column CSS Layout with Blueprint Framework":http://www.frinity.com/posts/css/design-three-column-css-layout-using-blueprint-framework by Fahad Ibnay Heylaal
-* "Blueprint’s compress.rb: A Walkthrough":http://jdclayton.com/blueprints_compress_a_walkthrough.html by Josh Clayton
-* "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/ [Spanish] by Leandro Donofrio
-* "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html [Italian]
-* "Blueprint -- CSS Framework":http://tinyurl.com/bpchinesetut [Chinese]
-* "Z czym się je Blueprint`a - frameworka CSS":http://apng.pl/blog/wpis/z_czym-sie_je_Blueprinta_frameworka_CSS [Polish]
-* "Traduction du quick-start tutorial - démarrage rapide avec blueprint":http://www.pasunclou.com/2008/09/01/demarrage-rapide-avec-blueprint/ [French]
-* "Wordpress Sandbox and Blueprint":http://blog.nedsferatu.com/wordpress-sandbox-and-blueprint by Nedsferatu
-* "Blueprint CSS: pár kroků k ulehčení kodérské práce":http://www.vzhurudolu.cz/archiv/2005-2008/www.vzhurudolu.cz/83/blueprint-css-5-kroku-k-ulehceni-koderske-prace.html [Czech] by Martin Michálek
-* "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide [English] by Jason Swartz
-* "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/2010/01/10/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/ [German] by pehbehbeh
+
+**English:**
+* "A Closer Look At the Blueprint CSS Framework":http://net.tutsplus.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/
+by Jesse Storimer
+* "Hands on with Blueprint, a CSS Framework":http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/
+by Larry Kubin (stale link) (use "archive.org":http://web.archive.org/web/20080202054019/http://www.cssdemos.com/2007/12/29/hands-on-with-blueprint-a-css-framework/)
+* "Three Column CSS Layout with Blueprint Framework":http://www.frinity.com/posts/css/design-three-column-css-layout-using-blueprint-framework
+by Fahad Ibnay Heylaal
+* "Blueprint’s compress.rb: A Walkthrough":http://jdclayton.com/blueprints_compress_a_walkthrough.html
+by Josh Clayton
+* "Wordpress Sandbox and Blueprint":http://blog.nedsferatu.com/wordpress-sandbox-and-blueprint
+by Nedsferatu
+* "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide
+by Jason Swartz
+
+**German:**
+* "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/2010/01/10/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/
+by pehbehbeh
+
+**French:**
+* "Traduction du quick-start tutorial - démarrage rapide avec blueprint":http://www.pasunclou.com/2008/09/01/demarrage-rapide-avec-blueprint/
+
+**Spanish:**
+* "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/
+by Leandro Donofrio
+
+**Italian:**
+* "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html
+
+**Chinese:**
+* "Blueprint -- CSS Framework":http://tinyurl.com/bpchinesetut
+
+**Polish:**
+* "Z czym się je Blueprint`a - frameworka CSS":http://apng.pl/blog/wpis/z_czym-sie_je_Blueprinta_frameworka_CSS
+
+**Czech**
+* "Blueprint CSS: pár kroků k ulehčení kodérské práce":http://www.vzhurudolu.cz/archiv/2005-2008/www.vzhurudolu.cz/83/blueprint-css-5-kroku-k-ulehceni-koderske-prace.html
+by Martin Michálek
