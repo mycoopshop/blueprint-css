@@ -11,7 +11,7 @@
 ###Code Generators###
 
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
-* "Blueprint CSS Architect":http://theyoungbostons.com/dustin/archives/the-new-blueprint-css-architect-is-now-easier-than-ever/
+* "Blueprint CSS Architect":http://dblogit.com/examples/bpa/
 
 ###Layout Editors (WYSIWYG(What You See Is What You Get))###
 
