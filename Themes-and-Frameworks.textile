@@ -4,7 +4,9 @@ h3. Themes
 * "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress]
 * "Blueprint Wordpress Theme":http://signified.net/blueprint-wordpress-theme/ [Wordpress]
 * "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
+* "Lening BKR Blueprint":http://www.lenenbkr.org [Mediawiki]
 * "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
+
 
 h3. Frameworks
 
