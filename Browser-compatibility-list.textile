@@ -1,24 +1,28 @@
-This is still a draft. Feel free to improve it. Don't rely on it.
-
 This is a list of browsers and OS on which Blueprint CSS has been tested:
-
 |_. OS |_. browser |_. browser version |_. blueprint version |_. results  |_. notes |
-| Windows | Internet Explorer | 8  | 0.8 | n/a |  |
+| Windows | Internet Explorer | 8  | 0.8 | n/a | untested |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | XP pro SP3|
 | Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok | server 2003 |
-| Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
+| Windows | Internet Explorer | 5.5 | 0.8 | n/a | untested |
 | Windows | Google Chrome | 0.4.154.29 | 0.8 | ok | XP pro SP3 |
-| OSX | Safari | 3.2.1 (4525.27.1) | 0.8 | ok | os x 10.4 |
-| OSX | Firefox | 2.0.0.18 | 0.8 | ok | os x 10.4 |
-| OSX | Camino | 2007112812 (1.5.4) | 0.8 | ok | os x 10.4 |
+| Windows | Mozilla Firefox | 3.0.4 | 0.8 | ok | XP pro SP3 |
+| Windows | Opera | 9.6.2 build 10467| 0.8 | ok | XP pro SP3 |
+| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | ok | OS X 10.4 |
+| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | ok | OS X 10.4 |
+| OS X | Camino | 2007112812 (1.5.4) | 0.8 | ok | OS X 10.4 |
+| Linux | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
+| Linux | Epiphany | 2.22.3 | 0.8 | ok |  |
+| Linux | Konqueror | 3.5.9 | 0.8 | ok | KDE 3.5.10 |
 
-The test method is:
-* open the "blueprint test page":http://blueprintcss.org/tests/ in the target browser;
-* open each of the child test pages;
-* check that each page displays correctly.
+*Test method:*
+The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, and checking that each displays correctly. The Blueprint version can be found in the "tags menu":http://github.com/joshuaclayton/blueprint-css/tree/master.
+
+*Contributing:*
+You can improve this list by testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
+
+*Bug/issue reports:*
+If you have a browser issue, please make sure that you test it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
 
 Todo list:
-# offer way to report bug/incompatibility and contribute
 # more OSes and browsers;
-# decide if we should include OS version;
 # use screenshots? where should it be hosted?
