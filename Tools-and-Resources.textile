@@ -1,4 +1,4 @@
-###Cheat Sheets and Templates###
+h3. Cheat Sheets and Templates
 
 * "Cheat Sheet for version 0.8 by GJMS":http://blueprintcss.org/media/BlueprintV0.8byGJMS.pdf [PDF, 40kb]
 * "Cheat Sheet for version 0.7.1 by GJMS":http://blueprintcss.org/media/BlueprintV0.7.1byGJMS.pdf [PDF, 39kb]
@@ -8,18 +8,18 @@
 * "Photoshop Template for Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps/
 * "Illustrator Template for Comps":http://dl.getdropbox.com/u/181087/blueprint_grid.ait
 
-###Code Generators###
+h3. Code Generators
 
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
 * "Blueprint CSS Architect":http://dblogit.com/examples/bpa/
 
-###Layout Editors (WYSIWYG(What You See Is What You Get))###
+h3. Layout Editors (WYSIWYG(What You See Is What You Get))
 
 * "Construct":http://constructyourcss.com/
 * "Blueprint Layout Tool":http://www.blueprintlayouttool.com/
 * "Boks - A Visual Grid Editor":http://toki-woki.net/p/Boks/
 
-###Language-specific Utilities###
+h3. Language-specific Utilities
 
 * "CSS Mixin PHP Script":http://habilis.net/cssmixin/ [PHP] Mixes CSS classes to provide more meaningful styles
 
