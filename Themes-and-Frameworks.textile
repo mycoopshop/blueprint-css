@@ -8,3 +8,4 @@
 ###Frameworks###
 
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
+* "Albumdy":http://albumdy.com/ A Ruby-on-Rails photo gallery with Blueprint
