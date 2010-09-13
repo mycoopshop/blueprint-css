@@ -9,3 +9,4 @@
 
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Albumdy":http://albumdy.com/ A Ruby-on-Rails photo gallery with Blueprint
+* "Habari":http://habariproject.org/en A blogging platform written in PHP
