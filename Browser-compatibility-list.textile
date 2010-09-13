@@ -1,5 +1,5 @@
 This is a list of browsers and OS on which Blueprint CSS has been tested:
-|_. OS |_. browser |_. browser version |_. blueprint version |_. results  |_. notes |
+|_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. results  |_. notes |
 | Windows | Internet Explorer | 8  | 0.8 | n/a | untested |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | XP pro SP3|
 | Windows | Internet Explorer | 6.0.379.0 | 0.8 | ok | server 2003 |
