@@ -6,6 +6,7 @@ h3. Themes
 * "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
 * "Lening BKR Blueprint":http://www.lenenbkr.org [Mediawiki]
 * "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
+* "The WSB Theme":http://blog.nedsferatu.com/the-wsb-theme [Wordpress]
 
 
 h3. Frameworks
