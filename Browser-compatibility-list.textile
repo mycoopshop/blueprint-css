@@ -7,8 +7,8 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Windows | Google Chrome | 0.4.154.29 | 0.7.1 | ok | XP pro SP3 |
 | Windows | Mozilla Firefox | 3.0.4 | 0.7.1 | ok | XP pro SP3 |
 | Windows | Opera | 9.6.2 build 10467| 0.7.1 | ok | XP pro SP3 |
-| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | ok | OS X 10.4 |
-| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | ok | OS X 10.4 |
+| OS X | Safari | 3.2.1 (4525.27.1) | 0.7.1 | ok | OS X 10.4 |
+| OS X | Mozilla Firefox | 2.0.0.18 | 0.7.1 | ok | OS X 10.4 |
 | OS X | Camino | 2007112812 (1.5.4) | 0.7.1 | ok | OS X 10.4 |
 | Linux | Mozilla Firefox | 3.0.4 | 0.7.1 | ok |  |
 | Linux | Epiphany | 2.22.3 | 0.7.1 | ok |  |
@@ -23,7 +23,7 @@ You can improve this list by repeating and validating the tests, testing a brows
 *Bug/issue reports:*
 If you have a browser issue, please make sure that you have tested it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
 
-*Screenshots:*
+*Screenshots for 0.7.1:*
 * Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
 * Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
 
