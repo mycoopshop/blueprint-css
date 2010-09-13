@@ -1,2 +1,3 @@
-* "Liquid Blueprint":http://www.ixda.org/discuss.php?post=23298 Makes the Blueprint Grid liquid (fluid)
-* "SilkSprite":http://www.ajaxbestiary.com/Labs/SilkSprite/ Integrates the Silk Icons set as sprites
+* "Buttons":http://github.com/Montoya/blueprint-plugin---buttons/tree Create great looking CSS Buttons
+* "Liquid Blueprint":http://github.com/Montoya/blueprint-plugin---liquidgrid/tree Makes the Blueprint Grid liquid (fluid)
+* "SilkSprite":http://github.com/Montoya/blueprint-plugin---silksprite/tree Integrates the Silk Icons set as sprites
