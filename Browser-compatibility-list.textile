@@ -2,7 +2,7 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 |_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. pass  |_. notes |
 | Windows | Internet Explorer | 8.0.6001.18241  | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! | typography: del does not <del>strikethrough</del> |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! | |
-| Windows | Internet Explorer | 6.0.379.0 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! | typography: abbr no extended text when mouseover |
+| Windows | Internet Explorer | 6.0.379.0 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
 | Windows | Google Chrome | 0.4.154.29 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Windows | Mozilla Firefox | 3.0.4 | 0.8 | !http://blueprintcss.org/img/ok.png(ok)! |  |
