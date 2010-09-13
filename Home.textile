@@ -8,3 +8,5 @@ Blueprint is a *CSS framework*, which aims to cut down on your development time.
 * [[Mods, Forks and Alternatives]] if Blueprint is not quite your thing
 * [[Browser Compatibility List]] for checking if Blueprint is compatible with your audience
 * [[License]] Read the modified MIT License that applies to Blueprint
+
+The official website for Blueprint can be found at "BlueprintCSS.org":http://blueprintcss.org/
