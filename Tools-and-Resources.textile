@@ -10,6 +10,7 @@ h3. Cheat Sheets and Templates
 
 h3. Code Generators
 
+* "BlueCalc CSS Generator":http://bluecalc.groupion.com/
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
 * "Blueprint CSS Architect":http://dblogit.com/examples/bpa/
 
