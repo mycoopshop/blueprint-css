@@ -1,3 +1,4 @@
+* "Launch: Blueprint, a CSS framework":http://bjorkoy.com/past/2007/8/3/launch_blueprint_a_css_framework/ by Olav Bjorkoy, Blueprint project founder
 * "Blueprint: Beautiful CSS Grid Layouts Made Easy":http://blog.wired.com/monkeybites/2007/08/blueprintcss-be.html by Scott Gilbertson
 * "The Myth of Content and Presentation Separation":http://jeffcroft.com/blog/2007/aug/09/myth-content-and-presentation-separation/ by Jeff Croft
 * "The Framework Formerly Known as 'Prints":http://www.subtraction.com/archives/2007/0807_the_framewor.php Interview with Olav by Khoi Vinh
@@ -6,3 +7,4 @@
 * "New Generator Tool Makes Blueprint CSS More Flexible":http://blog.wired.com/monkeybites/2007/09/new-generator-t.html by Scott Gilbertson
 * "On Blueprint":http://www.wellactually.net/code/2007/08/on-blueprint/ by George Lesica
 * "First Impressions of the Blueprint CSS Framework":http://www.stonemind.net/blog/2007/08/25/first-impressions-of-the-blueprint-css-framework/ by Adam Smith
+* "Blueprint CSS Framework vs YUI Grids":http://foohack.com/2007/08/blueprint-css-framework-vs-yui-grids/ by Isaac Schlueter
