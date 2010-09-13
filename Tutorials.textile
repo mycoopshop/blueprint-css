@@ -4,4 +4,4 @@
 * "Blueprint’s compress.rb: A Walkthrough":http://jdclayton.com/blueprints_compress_a_walkthrough.html by Josh Clayton
 * "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/ [Spanish] by Leandro Donofrio
 * "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html [Italian]
-* "Blueprint -- CSS Framework":http://chuanliang2007.spaces.live.com/blog/cns!E5B7AB2851A4C9D2!150.entry [Chinese]
+* <a href="http://chuanliang2007.spaces.live.com/blog/cns!E5B7AB2851A4C9D2!150.entry">Blueprint -- CSS Framework</a> [Chinese]
