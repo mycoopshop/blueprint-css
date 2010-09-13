@@ -19,3 +19,8 @@
 
 * "CSS Mixin PHP Script":http://habilis.net/cssmixin/ [PHP] Mixes CSS classes to provide more meaningful styles
 * "Blueprint CSS Rails Generator":http://ariejan.net/2007/08/27/blueprintcss-rails-generator/ [Ruby on Rails]
+
+###Javascript Background Grid Switchers/Togglers###
+
+* "Blueprint CSS + jQuery":http://tomster.org/blog/archive/2008/04/26/blueprint-css-jquery
+* "Bookmarklet to toggle the Blueprint CSS Background Grid":http://www.sanityinc.com/articles/bookmarklet-to-toggle-blueprint-css-grid
