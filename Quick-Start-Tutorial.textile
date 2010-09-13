@@ -1,4 +1,4 @@
-Welcome <b>Umair</b>
+Welcome 
 __Here's a quick tutorial on how you start using Blueprint.__
 
 h2. Installation
