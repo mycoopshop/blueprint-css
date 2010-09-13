@@ -1,0 +1,2 @@
+* "Liquid Blueprint":http://www.ixda.org/discuss.php?post=23298 Makes the Blueprint Grid liquid (fluid)
+* "SilkSprite":http://www.ajaxbestiary.com/Labs/SilkSprite/ Integrates the Silk Icons set as sprites
