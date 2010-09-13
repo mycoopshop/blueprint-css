@@ -2,7 +2,7 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 |_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. pass  |_. notes |
 | Windows | Internet Explorer | 8.0.6001.18241  | 0.8 | no | typography: del does not <del>strikethrough</del> |
 | Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | |
-| Windows | Internet Explorer | 6.0.379.0 | 0.8 | no | typography: abbr not supported |
+| Windows | Internet Explorer | 6.0.379.0 | 0.8 | no | typography: abbr no extended text when mouseover |
 | Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
 | Windows | Google Chrome | 0.4.154.29 | 0.8 | ok |  |
 | Windows | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
@@ -28,9 +28,9 @@ If you have a browser issue, please make sure that you have tested it with the m
 * Internet Explorer 7: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ie7.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ie7.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ie7.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ie7.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ie7.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ie7.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ie7.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ie7.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ie7.png
 * Mozilla Firefox 3.0.4: "1":http://groups.google.com/group/blueprintcss/web/bcl-test-ff304.png "2":http://groups.google.com/group/blueprintcss/web/bcl-sample-1-ff304.png "3":http://groups.google.com/group/blueprintcss/web/bcl-sample-2-ff304.png "4":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "5":http://groups.google.com/group/blueprintcss/web/bcl-grid-1-ff304.png "6":http://groups.google.com/group/blueprintcss/web/bcl-grid-2-ff304.png "7":http://groups.google.com/group/blueprintcss/web/bcl-typography-1-ff304.png "8":http://groups.google.com/group/blueprintcss/web/bcl-typography-2-ff304.png "9":http://groups.google.com/group/blueprintcss/web/bcl-typography-3-ff304.png "10":http://groups.google.com/group/blueprintcss/web/bcl-forms-ff304.png
 
-*Todo list*
+*Todo list:*
+* IE8 IE6 Opera fail the test for what may be a native browser shortcoming and not a blueprint issue. Need confirmation.
 * more OSes and browsers;
 * should we test obsolete browsers such as IE for Mac?
 * mobile devices anyone?
 * use screenshots? host them on the "Blueprintcss Google Group":http://groups.google.com/group/blueprintcss/files
-* is the test done on the latest tag,or on the trunk? no it's on 0.7.1 oh my.
