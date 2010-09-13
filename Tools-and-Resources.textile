@@ -1,6 +1,8 @@
 ###Cheat Sheets and Templates###
 
 * "Cheat Sheet for version 0.7.1":http://blueprintcss.org/blueprint-cheat-sheet.pdf [PDF, 80kb]
+* "Cheat Sheet for version 0.7.1 by GJMS":http://www.scribd.com/doc/3592303/Blueprint-CSS-framework-version-071-cheat-sheet [A4, PDF, 39kb]
+* "Cheat Sheet for version 0.8 by GJMS":http://www.scribd.com/doc/12850249/Blueprint-CSS-framework-version-08-cheat-sheet [A4, PDF, 40kb]
 * "Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
 * "Paper Grid ":http://blueprintcss.org/media/PaperGrid_by_KaiHowells.pdf You can print this out and use it to visualize/sketch your layouts, wireframes, etc. [A4, PDF, 53kb]
 * Illustrator Template for Comps (plain-text link because GitHub and Textile blow chunks together) <pre>http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/</pre>
