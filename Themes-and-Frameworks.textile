@@ -9,3 +9,4 @@
 
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
+* "Albumdy":http://albumdy.com/ Ruby on Rails open-source photo gallery with Blueprint for layout
