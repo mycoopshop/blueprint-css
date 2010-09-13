@@ -1,18 +1,18 @@
 This is a list of browsers and OS on which Blueprint CSS has been / should be tested:
 |_. OS |_. browser |_. browser ver. |_. blueprint ver. |_. pass  |_. notes |
-| Windows | Internet Explorer | 8  | 0.8 | n/a | untested |
-| Windows | Internet Explorer | 7.0.5730.13  | 0.7.1 | ok | XP pro SP3|
-| Windows | Internet Explorer | 6.0.379.0 | 0.7.1 | ok | server 2003 |
-| Windows | Internet Explorer | 5.5 | 0.8 | n/a | untested |
-| Windows | Google Chrome | 0.4.154.29 | 0.7.1 | ok | XP pro SP3 |
-| Windows | Mozilla Firefox | 3.0.4 | 0.7.1 | ok | XP pro SP3 |
-| Windows | Opera | 9.6.2 build 10467| 0.7.1 | ok | XP pro SP3 |
-| OS X | Safari | 3.2.1 (4525.27.1) | 0.7.1 | ok | OS X 10.4 |
-| OS X | Mozilla Firefox | 2.0.0.18 | 0.7.1 | ok | OS X 10.4 |
-| OS X | Camino | 2007112812 (1.5.4) | 0.7.1 | ok | OS X 10.4 |
+| Windows | Internet Explorer | 8.0.6001.18241  | 0.8 | no | typography: del does not <del>strikethrough</del> |
+| Windows | Internet Explorer | 7.0.5730.13  | 0.8 | ok | |
+| Windows | Internet Explorer | 6.0.379.0 | 0.8 | no | typography: abbr not supported |
+| Windows | Internet Explorer | 5.5 | 0.8 | n/a |  |
+| Windows | Google Chrome | 0.4.154.29 | 0.8 | ok |  |
+| Windows | Mozilla Firefox | 3.0.4 | 0.8 | ok |  |
+| Windows | Opera | 9.6.2 build 10467| 0.8 | no | typography: a anchor no cursor change |
+| OS X | Safari | 3.2.1 (4525.27.1) | 0.8 | n/a |  |
+| OS X | Mozilla Firefox | 2.0.0.18 | 0.8 | n/a |  |
+| OS X | Camino | 2007112812 (1.5.4) | 0.8 | n/a |  |
 | Linux | Mozilla Firefox | 3.0.4 | 0.7.1 | ok |  |
 | Linux | Epiphany | 2.22.3 | 0.7.1 | ok |  |
-| Linux | Konqueror | 3.5.9 | 0.7.1 | ok | KDE 3.5.10 |
+| Linux | Konqueror | 3.5.9 | 0.7.1 | ok |  |
 
 *Test method:*
 The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
