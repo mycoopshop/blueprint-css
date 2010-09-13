@@ -12,3 +12,4 @@
 * "Wordpress Sandbox and Blueprint":http://blog.nedsferatu.com/wordpress-sandbox-and-blueprint by Nedsferatu
 * "Blueprint CSS: pár kroků k ulehčení kodérské práce":http://www.vzhurudolu.cz/archiv/2005-2008/www.vzhurudolu.cz/83/blueprint-css-5-kroku-k-ulehceni-koderske-prace.html [Czech] by Martin Michálek
 * "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide [English] by Jason Swartz
+* "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/2010/01/10/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/ [German] by pehbehbeh
