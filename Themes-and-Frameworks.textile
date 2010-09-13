@@ -7,6 +7,7 @@ h3. Themes
 * "Lening BKR Blueprint":http://www.lenenbkr.org [Mediawiki]
 * "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
 * "The WSB Theme":http://blog.nedsferatu.com/the-wsb-theme [Wordpress]
+* "Viceroy":http://github.com/saturnboy/viceroy [Wordpress]
 
 
 h3. Frameworks
