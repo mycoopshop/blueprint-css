@@ -21,9 +21,7 @@ This is a list of browsers and OS on which Blueprint CSS has been / should be te
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Google Chrome | 4.0.295.0 unstable | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
-| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
-| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
-| Linux | Firefox | 3.5.8pre | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
+| Linux | Firefox | 3.6rc2 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)! |  |
 | Linux | Opera | 10.10 | 0.9.1 | !http://blueprintcss.org/img/ok.png(ok)!|  |
