@@ -1,3 +1,3 @@
 * "Boilerplate":http://code.google.com/p/css-boilerplate/ A stripped-down version of Blueprint
 * "Bluetrip":http://capsizedesigns.com/blog/2008/04/bluetripcss-a-fusion-of-blueprint-and-tripoli/ a fusion of blueprint and "Tripoli":http://devkick.com/lab/tripoli/.
-* "Compass":http://compass-style.org contains a Sass port of Blueprint that enables you to easily layout your semantic markup with blueprint.
+* "Compass":http://wiki.github.com/chriseppstein/compass contains a Sass port of Blueprint that enables you to easily layout your semantic markup with blueprint.
