@@ -4,7 +4,7 @@
 * "Illustrator Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/
 * "Photoshop Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps/
 * "Blueprint CSS Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
-* "Paper Grid [A4, PDF]":http://blueprintcss.org/media/PaperGrid_by_KaiHowells.pdf You can print this out and use it to visualize/sketch your layouts, wireframes, etc.
+* "Paper Grid ":http://blueprintcss.org/media/PaperGrid_by_KaiHowells.pdf You can print this out and use it to visualize/sketch your layouts, wireframes, etc. [A4, PDF, 53kb]
 
 ###Code Generators###
 
