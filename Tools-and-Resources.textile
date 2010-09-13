@@ -1,7 +1,7 @@
 ###Cheat Sheets and Templates###
 
 * "Blueprint CSS Cheat Sheet":http://www.digitart.net/blueprintcss/bluebrintcss.pdf [PDF, 40kb] "(mirror)":http://blueprintcss.org/blueprint-cheat-sheet.pdf
-* "Illustrator Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/
+* [Illustrator Template for Blueprint CSS Comps]http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/
 * "Photoshop Template for Blueprint CSS Comps":http://urlgreyhot.com/personal/resources/photoshop_template_blueprint_css_comps/
 * "Blueprint CSS Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
 
