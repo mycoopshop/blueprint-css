@@ -1,0 +1,7 @@
+###Themes###
+
+* "Starter Drupal Theme":http://drupal.org/project/blueprint
+
+###Frameworks###
+
+* "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
