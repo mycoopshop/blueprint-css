@@ -15,7 +15,7 @@ This is a list of browsers and OS on which Blueprint CSS has been tested:
 | Linux | Konqueror | 3.5.9 | 0.8 | ok | KDE 3.5.10 |
 
 *Test method:*
-The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, and checking that each displays correctly. The Blueprint version can be found in the "tags menu":http://github.com/joshuaclayton/blueprint-css/tree/master.
+The compatibility test is made in a native operating system, opening the "blueprint test page":http://blueprintcss.org/tests/ and each of the child pages in a browser, then checking that each page displays correctly. 
 
 *Contributing:*
 You can improve this list by testing a browser that's not available here, or if you have a more recent version of a browser. Test it, edit this page if you have a github account, and tell us on the "mailing list":http://groups.google.com/group/blueprintcss that you have an update.
@@ -24,5 +24,6 @@ You can improve this list by testing a browser that's not available here, or if 
 If you have a browser issue, please make sure that you test it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
 
 Todo list:
-# more OSes and browsers;
-# use screenshots? where should it be hosted?
+* more OSes and browsers;
+* use screenshots? where should it be hosted?
+*The Blueprint version can be found in the "tags menu":http://github.com/joshuaclayton/blueprint-css/tree/master.
