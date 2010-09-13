@@ -23,7 +23,9 @@ You can improve this list by repeating and validating the tests, testing a brows
 *Bug/issue reports:*
 If you have a browser issue, please make sure that you have tested it with the method outlined above. If you think the test pages should be improved,  please report it on the "bug tracker":http://blueprintcss.lighthouseapp.com/.
 
-Todo list:
+*Todo list*
 * more OSes and browsers;
-* use screenshots? where should it be hosted?
-*The Blueprint version can be found in the "tags menu":http://github.com/joshuaclayton/blueprint-css/tree/master.
+* should we test obsolete browsers such as IE for Mac?
+* mobile devices anyone?
+* use screenshots? where should they be hosted?
+* is the test done on the latest tag,or on the trunk?
