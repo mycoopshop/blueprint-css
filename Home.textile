@@ -4,3 +4,4 @@ Blueprint is a *CSS framework*, which aims to cut down on your CSS development t
 * [[Articles]] from around the web
 * [[Tools and Resources]] for Blueprint development
 * [[Plugins]] for example, to make the grid fluid or add sprites
+* [[Mods, Forks and Alternatives]] if Blueprint is not quite your thing
