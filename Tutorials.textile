@@ -34,9 +34,6 @@ by Miguel Angel Alvarez
 **Chinese:**
 * "Blueprint -- CSS Framework":http://tinyurl.com/bpchinesetut
 
-**Polish:**
-* "Z czym się je Blueprint`a - frameworka CSS":http://apng.pl/blog/wpis/z_czym-sie_je_Blueprinta_frameworka_CSS
-
 **Portuguese Brazilian:**
 * "Blueprint – Inicio Rápido":http://www.geniusdeveloper.com.br/css/2010/05/blueprint-inicio-rapido/
 
