@@ -1,4 +1,3 @@
-* "Rapid Stylesheet Development with Blueprint CSS":http://www.cherrysave.com/tools/rapid-web-design-with-blueprint-css-framework/ by Kurt Edelbrock
 * "The Myth of Content and Presentation Separation":http://jeffcroft.com/blog/2007/aug/09/myth-content-and-presentation-separation/ by Jeff Croft
 * "The Framework Formerly Known as 'Prints":http://www.subtraction.com/archives/2007/0807_the_framewor.php Interview with Olav by Khoi Vinh
 * "Blueprint: A CSS Framework":http://www.markboulton.co.uk/journal/comments/blueprint_a_css_framework/ by Mark Boulton
