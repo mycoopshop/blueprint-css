@@ -9,6 +9,7 @@ h3. Cheat Sheets and Templates
 * "Illustrator Template for Comps [ BROKEN LINK ]":http://dl.getdropbox.com/u/181087/blueprint_grid.ait
 
 h3. Code Generators
+* "Blueprinter":http://ianli.com/blueprinter/ - generates CSS for Blueprint v1.0.
 * "GridCalc":http://www.problem.se/labs/gridcalc/ - Grid calculator and generator, generates CSS for Blueprint v0.9.
 * "BlueCalc CSS Generator":http://bluecalc.xily.info/ -- Updated on 2010-08-25
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
