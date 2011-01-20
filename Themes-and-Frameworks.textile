@@ -8,6 +8,7 @@ h3. Themes
 * "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
 * "The WSB Theme":http://blog.nedsferatu.com/the-wsb-theme [Wordpress]
 * "Viceroy":http://github.com/saturnboy/viceroy [Wordpress]
+* "xScape":http://www.dev4press.com/themes/xscape/ [Wordpress]
 
 
 h3. Frameworks
