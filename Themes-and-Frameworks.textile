@@ -8,7 +8,6 @@ h3. Themes
 * "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
 * "The WSB Theme":http://blog.nedsferatu.com/the-wsb-theme [Wordpress]
 * "Viceroy":http://github.com/saturnboy/viceroy [Wordpress]
-* "xScape":http://www.dev4press.com/themes/xscape/ [Wordpress]
 
 
 h3. Frameworks
@@ -16,3 +15,4 @@ h3. Frameworks
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Yii":http://www.yiiframework.com/ Fast and flexible php framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
+* "xScape":http://www.dev4press.com/themes/xscape/ WordPress framework with Blueprint built-in for all themes
