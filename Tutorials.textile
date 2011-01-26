@@ -4,8 +4,6 @@
 **English:**
 * "A Closer Look At the Blueprint CSS Framework":http://net.tutsplus.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/
 by Jesse Storimer
-* "Three Column CSS Layout with Blueprint Framework":http://www.frinity.com/posts/css/design-three-column-css-layout-using-blueprint-framework
-by Fahad Ibnay Heylaal
 * "Blueprint’s compress.rb: A Walkthrough":http://jdclayton.com/blueprints_compress_a_walkthrough.html
 by Josh Clayton
 * "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide
