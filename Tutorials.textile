@@ -17,8 +17,6 @@ by pehbehbeh
 * "Traduction du quick-start tutorial - démarrage rapide avec blueprint (mis à jour - autre site avait une erreur 404)":http://windowslinux.net/index.php/BluePrint#Tutorial_de_D.C3.A9marrage_rapide
 
 **Spanish:**
-* "Blueprint: Un framework CSS para nuestros desarrollos":http://www.leandrodonofrio.com/recursos/scripts/blueprint-un-framework-css-para-nuestros-desarrollos/
-by Leandro Donofrio
 * "Manual de Blueprint CSS":http://www.desarrolloweb.com/manuales/manual-blueprint-css.html
 by Miguel Angel Alvarez
 
