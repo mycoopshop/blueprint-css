@@ -24,7 +24,7 @@ by Miguel Angel Alvarez
 * "Blueprint: arriva il framework CSS":http://www.dynamick.it/framework-css-blueprint-1007.html
 
 **Chinese:**
-* "Blueprint -- CSS Framework":http://tinyurl.com/bpchinesetut
+* "Blueprint -- CSS Framework":http://chuanliang.wordpress.com/?s=blueprint
 
 **Portuguese Brazilian:**
 * "Blueprint – Inicio Rápido":http://www.geniusdeveloper.com.br/css/2010/05/blueprint-inicio-rapido/
