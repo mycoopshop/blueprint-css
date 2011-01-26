@@ -1,6 +1,6 @@
 h3. Themes
-
-* "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal]
+Note, that some of the themes are not anymore upto date.
+* "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal] (outdated)
 * "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress] (outdated)
 * "Blueprint Wordpress Theme":http://signified.net/blueprint-wordpress-theme/ [Wordpress]
 * "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
