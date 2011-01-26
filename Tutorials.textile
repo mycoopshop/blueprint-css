@@ -8,6 +8,7 @@ by Jesse Storimer
 by Josh Clayton
 * "The Quick Guide To Blueprint":http://www.blackrocksoftware.com/blog/quick_blueprint_guide
 by Jason Swartz
+* "Blueprint & jQuery":http://tomster.org/blog/archive/2008/04/26/blueprint-css-jquery/ - Turn showgrid on/off with a mouseclick
 
 **German:**
 * "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/webentwicklung/html-css/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/
