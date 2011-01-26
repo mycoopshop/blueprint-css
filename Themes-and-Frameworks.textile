@@ -1,7 +1,7 @@
 h3. Themes
 
 * "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal]
-* "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress]
+* "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress] (outdated)
 * "Blueprint Wordpress Theme":http://signified.net/blueprint-wordpress-theme/ [Wordpress]
 * "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
 * "Lening BKR Blueprint":http://www.lenenbkr.org [Mediawiki]
