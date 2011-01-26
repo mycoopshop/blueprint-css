@@ -9,6 +9,8 @@ Note, that some of the themes are not anymore upto date.
 
 h3. Frameworks
 
+* "The Buffet Framework": http://www.zy.sg/the-buffet-framework/ WordPress Framework that let's you choose
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Yii":http://www.yiiframework.com/ Fast and flexible php framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
+* "Simon WP Blank Framework": http://simonwebdesign.com/simon-wordpress-framework-blank-theme/ Uses the typography.css file from src and 960gs for the layout
