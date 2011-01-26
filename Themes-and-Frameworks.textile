@@ -1,13 +1,10 @@
 h3. Themes
 Note, that some of the themes are not anymore upto date.
-* "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal] (outdated)
-* "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress] (outdated)
-* "Blueprint Wordpress Theme":http://signified.net/blueprint-wordpress-theme/ [Wordpress]
-* "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress]
-* "Lening BKR Blueprint":http://www.lenenbkr.org [Mediawiki]
-* "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin]
-* "The WSB Theme":http://blog.nedsferatu.com/the-wsb-theme [Wordpress]
-* "Viceroy":http://github.com/saturnboy/viceroy [Wordpress]
+* "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal] (outdated - not sure if even blueprint)
+* "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress] (outdated - first version)
+* "SF-Blueprint-WP":http://www.slipfire.com/sf-blueprint-wp-theme-52.htm [Wordpress] (outdated - v0.7.1)
+* "DotNetNuke BluePrint Css Framework":http://osdnnskins.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=25517 [With sample dotnetnuke skin] (current, but only grid.css & typography.css from src)
+* "Viceroy":http://github.com/saturnboy/viceroy [Wordpress] (outdated - v0.9, but src files)
 
 
 h3. Frameworks
@@ -15,4 +12,3 @@ h3. Frameworks
 * "Lift":http://liftweb.net/ Scala web framework with Blueprint built-in
 * "Yii":http://www.yiiframework.com/ Fast and flexible php framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
-* "xScape":http://www.dev4press.com/themes/xscape/ WordPress framework with Blueprint built-in for all themes
