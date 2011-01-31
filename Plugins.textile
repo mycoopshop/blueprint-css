@@ -6,6 +6,7 @@ Blueprint comes with a handful of plugins "out of the box." These include:
 * RTL (right-to-left text and column layout support) 
 * Buttons 
 * Link Icons (like filetypes, external, etc)
+* "Debug":https://github.com/franz-josef-kaiser/blueprint-dev---debug (beta)
 
 h3. More plugins 
 
