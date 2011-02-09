@@ -15,6 +15,8 @@ Blueprint should be put in your site's CSS directory. After you've done that, ad
 
 Blueprint is now ready for consumption.
 
+***
+
 h2. Files in Blueprint
 
 The framework has a few files you should check out. Every file in the 'src' directory contains lots of (hopefully) clarifying comments.
@@ -43,6 +45,8 @@ The framework has a few files you should check out. Every file in the 'src' dire
 
   * blueprint/plugins/: Contains additional functionality in the form of simple plugins for Blueprint. See individual readme files in the directory of each plugin for further instructions.
   * tests/: Contains html files which tests most aspects of Blueprint. Open tests/index.html for further instructions.
+
+***
 
 h2. Using Blueprint
 
