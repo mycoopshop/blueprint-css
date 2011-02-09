@@ -56,7 +56,7 @@ h2. Using Blueprint
 
 The best way to see how BP is used, is to go through the commented CSS files, or the source code for the example page, which is bundled with the download. However, here are some of the basics:
 
-h3. The typography
+h4. The typography
 
 Typography.css does not need any customization: just drop it in, and it'll give you some nice default text styles.
 
@@ -64,7 +64,7 @@ The typography.css file also sets a baseline (line-height) of 18px. This means t
 
 Print.css has some options where you can fill in your domain name, so that relative links are shown in parenthesis behind the text link on print. Without filling in your domain name, only remote URLs work properly.
 
-h3. The grid
+h4. The grid
 
 By default, the grid is 950px wide, with 24 columns spanning 30px, and a 10px margin between columns.
 
