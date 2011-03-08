@@ -2,11 +2,13 @@ h3. Cheat Sheets and Templates
 
 * "Blueprint Cheatsheets":http://www.garethjmsaunders.co.uk/blueprint/ Cheat sheets for versions 0.7.2, 0.8, 0.9.1 and 1.0
 * "Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
+* "Gridmaker for Photoshop CS4":http://www.andrewingram.net/articles/gridmaker_for_photoshop_cs4/ Photoshop extension which allows you to automatically create a Photoshop template for your Blueprint layout.
 * "Paper Grid":http://blueprintcss.org/media/PaperGrid_by_KaiHowells.pdf [A4, PDF, 53kb] You can print this out and use it to visualize/sketch your layouts, wireframes, etc.
 * "Illustrator Template for Comps":http://urlgreyhot.com/personal/resources/illustrator_template_blueprint_css_comps/
 * "Photoshop Template for Comps":http://konigi.com/tools/photoshop-template-blueprint-css-comps
 * "Fireworks Template for Comps":http://www.recessmobile.com/blog/fireworks-blueprint-css-template/
 * "Illustrator Template for Comps [ BROKEN LINK ]":http://dl.getdropbox.com/u/181087/blueprint_grid.ait
+
 
 h3. Code Generators
 * "Blueprinter":http://ianli.com/blueprinter/ - generates CSS for Blueprint v1.0.
