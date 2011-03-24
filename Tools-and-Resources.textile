@@ -8,6 +8,7 @@ h3. Cheat Sheets and Templates
 * "Photoshop Template for Comps":http://konigi.com/tools/photoshop-template-blueprint-css-comps
 * "Fireworks Template for Comps":http://www.recessmobile.com/blog/fireworks-blueprint-css-template/
 * "Illustrator Template for Comps [ BROKEN LINK ]":http://dl.getdropbox.com/u/181087/blueprint_grid.ait
+* "Evolus Pencil stencils":https://gist.github.com/885312 (zip the file then import it)
 
 (1) be sure to place the downloaded files under /photoshop_root/plug-ins/panels/new-folder/. then restart ps & find it under "windows" > "extenstions". Be aware that this is not a final version & only works in ps cs4.
 
