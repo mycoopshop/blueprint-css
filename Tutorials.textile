@@ -3,7 +3,7 @@
 
 **English:**
 * "A Closer Look At the Blueprint CSS Framework":http://net.tutsplus.com/tutorials/html-css-techniques/a-closer-look-at-the-blueprint-css-framework/
-by Jesse Storimer
+by Jesse Storimer (read with care - some of the recommendations over here are not best practice)
 * "Blueprint’s compress.rb: A Walkthrough":http://jdclayton.com/blueprints_compress_a_walkthrough.html
 by Josh Clayton
 * "Blueprint & jQuery":http://tomster.org/blog/archive/2008/04/26/blueprint-css-jquery/ - Turn showgrid on/off with a mouseclick
