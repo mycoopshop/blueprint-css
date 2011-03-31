@@ -28,7 +28,7 @@ h3. Layout Editors (WYSIWYG(What You See Is What You Get))
 h3. Language-specific Utilities
 
 * "CSS Mixin PHP Script":http://habilis.net/cssmixin/ [PHP] Mixes CSS classes to provide more meaningful styles
-* [[property-extractor]] Extract CSS properties from a set of style sheets. The extracted properties could then be used with JQuery (or any other language).
+* Perl/JQuery [[property-extractor]] Extract CSS properties from a set of style sheets. The extracted properties could then be used with JQuery (or any other language).
 
 h3. Javascript Background Grid Switchers/Togglers
 
