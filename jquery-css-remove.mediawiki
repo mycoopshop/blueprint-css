@@ -1,4 +1,3 @@
-
 ==Introduction==
 
 I wrote a JQuery add-on that can be used to remove CSS from elements. I place the code hare, so it could help.
@@ -27,11 +26,11 @@ I wrote a JQuery add-on that can be used to remove CSS from elements. I place th
    *       });
    *   </script>
    *   ...
-   *   <!-- Remove everything (properties, classes and in-line styles). -->
+   *   &lt;!-- Remove everything (properties, classes and in-line styles). --&gt;
    *   <div cssCleaning="properties|classes|styles" class="span-20" style="background-color:#c0c0c0">...</div>
-   *   <!-- Remove only properties and classes. -->
+   *   &lt;!-- Remove only properties and classes. --&gt;
    *   <div cssCleaning="properties|classes" class="span-20" style="background-color:#c0c0c0">...</div>
-   *   <!-- Remove only properties. -->
+   *   &lt;!-- Remove only properties. --&gt;
    *   <div otherCssCleaning="properties" class="span-20" style="background-color:#c0c0c0">...</div>
    */
    
@@ -69,7 +68,7 @@ I wrote a JQuery add-on that can be used to remove CSS from elements. I place th
           // If there is no selected element, then abort.
           if (0 == $(this).length) { return; }
   
-          // Which attribute represents selector?
+          // Which attribute represents the selector?
           var cssClearAttr = this.selector;
           cssClearAttr = cssClearAttr.replace(/^\[/, '');
           cssClearAttr = cssClearAttr.replace(/\]$/, '');
@@ -94,3 +93,5 @@ I wrote a JQuery add-on that can be used to remove CSS from elements. I place th
           }
       }
   })( jQuery );
+
+OK
