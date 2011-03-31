@@ -5,6 +5,7 @@ I needed to extract all properties defined in the BluePrint framework:
 As far as I know, using JavaScrip, you can not remove at once all CSS properties from an element. You have to remove each property, one by one. Hence, you need to extract the entire list of CSS properties that apply to your page.
 
 That's why I wrote a mall Perl script to do the task. I leave the code here, so that it will not be lost.
+[[http://groups.google.com/group/blueprintcss/browse_thread/thread/92fdc90621a12a94?hl=de]]
 
 ==The Perl code==
 
