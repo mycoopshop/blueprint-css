@@ -1,4 +1,3 @@
-
 ==Introduction==
 
 I needed to extract all properties defined in the BluePrint framework:
@@ -127,9 +126,9 @@ Given a list of properties, lets remove all properties :
 
 You may also need to remove all classes and in-line styles:
 
-  // Removing classes
+  /* Removing classes */
   $('#id').removeClass().find('*').removeClass();
-  // Remonving inline styles
+  /* Remonving inline styles */
   $('#id').attr('style', '').find('*').element.attr('style', '');
 
 
