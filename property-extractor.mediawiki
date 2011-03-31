@@ -131,5 +131,7 @@ You may also need to remove all classes and in-line styles:
   /* Remonving inline styles */
   $('#id').attr('style', '').find('*').element.attr('style', '');
 
+Note: See the JQuery add-on [[JQuery-Plugin-Clear-Css]]
+
 OK
 
