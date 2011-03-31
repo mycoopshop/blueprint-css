@@ -1,10 +1,11 @@
 
-
 ## introduction
 
 For some reason, I wanted to remove CSS from an element, and from all its children. So I wrote a JQuery add-on that can be used to remove CSS from an element, and from all its children.
 
 You can remove: Only the classes, only the in-line styles. only a given list of properties, or any combination of the 3 actions above.
+
+Note : To get the list of CSS properties from a given set of style sheets, see the Perl script [[property-extractor]].
 
 ## The JQuery add-on
 
