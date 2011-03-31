@@ -1,0 +1,135 @@
+
+
+==Introduction==
+
+I needed to extract all properties defined in the BluePrint framework:
+
+As far as I know, using JavaScrip, you can not remove at once all CSS properties from an element. You have to remove each property, one by one. Hence, you need to extract the entire list of CSS properties that apply to your page.
+
+That's why I wrote a mall Perl script to do the task. I leave the code here, so that it will not be lost.
+
+==The Perl code==
+
+For this script I used the CSS parser from Allen Day and Cal Henderson, which you can find on the Comprehensive Perl Archive Network (aka CPAN) - [http://search.cpan.org/~iamcal/CSS-1.09/CSS.pm].
+
+You also need a Perl module used to parse the command line - [http://search.cpan.org/~jv/Getopt-Long-2.38/lib/Getopt/Long.pm].
+
+These two modules can be installed automatically (at least under UNIX).
+
+You can use the CPAN installer :
+*  cpan -i CSS
+*  cpan -i Getopt::Long
+
+
+Under Linux Debian, you can also use the native installer:
+*  apt-get install libcss-perl
+*  apt-get install libgetopt-long-descriptive-perl
+
+
+  /**
+   * This script extracts all CSS properties from a given list of style sheets.
+   * @author Denis BEURIVE
+   * @Example perl css2js.pl --stylesheets='forms.css;grid.css;print.css;ie.css;print.css;reset.css;typography.css'
+   */
+  use strict;
+  use Data::Dumper;
+  use Getopt::Long;    # http://search.cpan.org/~jv/Getopt-Long-2.38/lib/Getopt/Long.pm
+  use CSS;             # http://search.cpan.org/~iamcal/CSS-1.09/CSS.pm
+  
+  my $help                 = undef;  # Help toggle.
+  my $argvStyleSheetPathes = undef;  # Pathes to the CSS files (as given by the command line).
+  my @styleSheetPathes     = ();     # List ot pathes to style sheets.
+  my @properties           = ();     # List of CSS properties.
+  my %uniqProperties       = ();     # This hash is used to keep only one occurrence of each property.
+  my @tab                  = ();
+  
+  # Parsing the command line.
+  unless ( GetOptions ( 'help'          => \$help,
+                        'stylesheets=s' => \$argvStyleSheetPathes))
+  { print STDERR "ERROR: Invalid command line!\n"; exit 1; }
+  
+  if (defined($help)) { help(); exit 0; }
+  unless (defined($argvStyleSheetPathes)) { print STDERR "ERROR: Missing mandatory option --stylesheets.\n"; exit 1; }
+  @styleSheetPathes = split (/;/, $argvStyleSheetPathes);
+  
+  # Loading and parsing.
+  foreach my $styleSheetPath (@styleSheetPathes)
+  {
+    my @entries = ();
+    my $css     = CSS->new( { 'parser' => 'CSS::Parse::Heavy' } );
+  
+    $css->read_file($styleSheetPath);
+  
+    # Get all properties.
+    @entries = @{$css->{'styles'}};
+    foreach my $entry (@entries)
+    {
+      if (exists($entry->{'properties'}))
+      {
+        my @properties = @{$entry->{'properties'}};
+        foreach my $property (@properties) { $uniqProperties{"'" . $property->{'property'} . "'"} = 1; }
+      }
+  
+      # In case you want the selectors...
+      # if (exists($entry->{'selectors'})) { my @selectors = @{$entry->{'selectors'}}; }
+    }
+  }
+  
+  # Now, let's create the JavaScript list of properties.
+  @tab = keys %uniqProperties;
+  print '// Total: ' . int(@tab) . "\n";
+  print 'var cssProperties = new Array(' . join(',', @tab) . ');';
+  
+  exit 0;
+  
+  sub help
+  {
+    print STDOUT "Usage: perl css2js.pl (--help | --stylesheets=<list of style sheets>)\n";
+  }
+
+==Usage==
+
+The following command will extract the CSS properties from a set of 6 CSS files.
+
+  perl css2js.pl --stylesheets='forms.css;grid.css;ie.css;print.css;reset.css;typography.css'
+
+The script returns the list of properties as a JavaScrip array. 
+
+  // Total: 42
+  var cssProperties = new array('font-style','border-right-width','background','padding-right','border','margin','border-right','height','margin-top','border-left-width','margin-right','color','width','position','display','padding-left','float','border-width','content','overflow-x','margin-left','border-bottom','border-color','border-style','background-color','font-family','padding','font','visibility','overflow','white-space','line-height','padding-top','margin-bottom','border-collapse','text-align','border-spacing','font-size','font-weight','clear','text-decoration','vertical-align');
+
+Please note that you can return the list in other format. You just need to adapt the following line :
+
+  print 'var cssProperties = new Array(' . join(',', @tab) . ');';
+
+==Use the result with JQuery==
+
+To remove one property from an element ([http://api.jquery.com/css/]):
+
+  $('#id').css('nameOfTheProperty', '');
+
+To remove one property for all children of an element ([http://api.jquery.com/find/]):
+
+  $('#id').find('*').css('nameOfTheProperty', '');
+
+To remove one property for all children of an element, and for the element itself :
+
+  $('#id').css('nameOfTheProperty', '').find('*').css('nameOfTheProperty', '');
+
+Given a list of properties, lets remove all properties :
+
+  var cssProperties = new array('font-style','border-right-width','background','padding-right','border','margin','border-right','height','margin-top','border-left-width','margin-right','color','width','position','display','padding-left','float','border-width','content','overflow-x','margin-left','border-bottom','border-color','border-style','background-color','font-family','padding','font','visibility','overflow','white-space','line-height','padding-top','margin-bottom','border-collapse','text-align','border-spacing','font-size','font-weight','clear','text-decoration','vertical-align');
+  
+  for (i=0; i<cssProperties.length; i++)
+  {
+     var p = cssProperties[i];
+     inElement.css(p, '').find('*').css(p, '');
+  }
+
+You may also need to remove all classes and in-line styles:
+
+  // Removing classes
+  $('#id').removeClass().find('*').removeClass();
+  // Remonving inline styles
+  $('#id').attr('style', '').find('*').element.attr('style', '');
+
