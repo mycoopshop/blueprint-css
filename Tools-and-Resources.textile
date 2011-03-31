@@ -29,6 +29,7 @@ h3. Language-specific Utilities
 
 * "CSS Mixin PHP Script":http://habilis.net/cssmixin/ [PHP] Mixes CSS classes to provide more meaningful styles
 * Perl/JQuery [[property-extractor]] Extract CSS properties from a set of style sheets. The extracted properties could then be used with JQuery (or any other language).
+* [[JQuery-Plugin-Clear-Css]] Remove CSS from an element, and from all its children. This JQuery add-on allows the user to remove classes, in-line styles or properties.
 
 h3. Javascript Background Grid Switchers/Togglers
 
