@@ -19,13 +19,13 @@ You also need a Perl module used to parse the command line - [http://search.cpan
 These two modules can be installed automatically (at least under UNIX).
 
 You can use the CPAN installer :
-pre cpan -i CSS
-pre cpan -i Getopt::Long
+@cpan -i CSS@
+@cpan -i Getopt::Long@
 
 
 Under Linux Debian, you can also use the native installer:
-pre apt-get install libcss-perl
-pre apt-get install libgetopt-long-descriptive-perl
+@apt-get install libcss-perl@
+@apt-get install libgetopt-long-descriptive-perl@
 
 
   /**
