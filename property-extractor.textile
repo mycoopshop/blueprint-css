@@ -27,7 +27,7 @@ Under Linux Debian, you can also use the native installer:
 @apt-get install libcss-perl@
 @apt-get install libgetopt-long-descriptive-perl@
 
-
+<pre>
   /**
    * This script extracts all CSS properties from a given list of style sheets.
    * @author Denis BEURIVE
@@ -88,6 +88,7 @@ Under Linux Debian, you can also use the native installer:
   {
     print STDOUT "Usage: perl css2js.pl (--help | --stylesheets=<list of style sheets>)\n";
   }
+</pre>
 
 ----------------------------------------------------------------
 
@@ -95,31 +96,34 @@ h3. Usage
 
 The following command will extract the CSS properties from a set of 6 CSS files.
 
-  perl css2js.pl --stylesheets='forms.css;grid.css;ie.css;print.css;reset.css;typography.css'
+  <code>perl css2js.pl --stylesheets='forms.css;grid.css;ie.css;print.css;reset.css;typography.css'</code>
 
 The script returns the list of properties as a JavaScrip array. 
 
+<pre>
   // Total: 42
   var cssProperties = new array('font-style','border-right-width','background','padding-right','border','margin','border-right','height','margin-top','border-left-width','margin-right','color','width','position','display','padding-left','float','border-width','content','overflow-x','margin-left','border-bottom','border-color','border-style','background-color','font-family','padding','font','visibility','overflow','white-space','line-height','padding-top','margin-bottom','border-collapse','text-align','border-spacing','font-size','font-weight','clear','text-decoration','vertical-align');
-
+</pre>
+<
 Please note that you can return the list in other format. You just need to adapt the following line :
 
-  print 'var cssProperties = new Array(' . join(',', @tab) . ');';
+  <code>print 'var cssProperties = new Array(' . join(',', @tab) . ');';</code>
 
 h3. To remove one property from an element ([http://api.jquery.com/css/]):
 
-  $('#id').css('nameOfTheProperty', '');
+  @$('#id').css('nameOfTheProperty', '');@
 
 To remove one property for all children of an element ([http://api.jquery.com/find/]):
 
-  $('#id').find('*').css('nameOfTheProperty', '');
+  @$('#id').find('*').css('nameOfTheProperty', '');@
 
 To remove one property for all children of an element, and for the element itself :
 
-  $('#id').css('nameOfTheProperty', '').find('*').css('nameOfTheProperty', '');
+  @$('#id').css('nameOfTheProperty', '').find('*').css('nameOfTheProperty', '');@
 
 Given a list of properties, lets remove all properties :
 
+<pre>
   var cssProperties = new array('font-style','border-right-width','background','padding-right','border','margin','border-right','height','margin-top','border-left-width','margin-right','color','width','position','display','padding-left','float','border-width','content','overflow-x','margin-left','border-bottom','border-color','border-style','background-color','font-family','padding','font','visibility','overflow','white-space','line-height','padding-top','margin-bottom','border-collapse','text-align','border-spacing','font-size','font-weight','clear','text-decoration','vertical-align');
   
   for (i=0; i<cssProperties.length; i++)
@@ -127,13 +131,16 @@ Given a list of properties, lets remove all properties :
      var p = cssProperties[i];
      inElement.css(p, '').find('*').css(p, '');
   }
+</pre>
 
 You may also need to remove all classes and in-line styles:
 
+<pre>
   /* Removing classes */
   $('#id').removeClass().find('*').removeClass();
   /* Remonving inline styles */
   $('#id').attr('style', '').find('*').element.attr('style', '');
+</pre>
 
 Note: See the JQuery add-on [[JQuery-Plugin-Clear-Css]]
 
