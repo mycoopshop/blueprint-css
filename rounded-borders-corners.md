@@ -1,8 +1,6 @@
 # DRAFT
 Please be aware that the code shown on this page currently is only draft. Please don't use this on any production or live site unless this message is gone.
 
-<hr>
-
 # Introduction
 
 This page shows how to create rounded corners and rounded borders with BluePrint and JQuery.
