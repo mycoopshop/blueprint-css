@@ -1,4 +1,6 @@
-## introduction
+## DRAFT
+Please note that this page currently is in draf mode. Don't use this on any live site until this message is gone. If you got any ideas or additions, feel free to go and share your thoughts on our google mailing list. Thank you.
+## Introduction
 
 For some reason, I wanted to remove CSS from an element, and from all its children. So I wrote a JQuery add-on that can be used to remove CSS from an element, and from all its children.
 
