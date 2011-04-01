@@ -1,4 +1,4 @@
-==Introduction==
+h2. Introduction
 
 I needed to extract all properties defined in the BluePrint framework:
 
@@ -8,7 +8,7 @@ That's why I wrote a mall Perl script to do the task. I leave the code here, so 
 
 Original Thread: [[http://groups.google.com/group/blueprintcss/browse_thread/thread/92fdc90621a12a94?hl=de]]
 
-==The Perl code==
+h3. The Perl code
 
 For this script I used the CSS parser from Allen Day and Cal Henderson, which you can find on the Comprehensive Perl Archive Network (aka CPAN) - [http://search.cpan.org/~iamcal/CSS-1.09/CSS.pm].
 
@@ -87,7 +87,7 @@ Under Linux Debian, you can also use the native installer:
     print STDOUT "Usage: perl css2js.pl (--help | --stylesheets=<list of style sheets>)\n";
   }
 
-==Usage==
+h3. Usage
 
 The following command will extract the CSS properties from a set of 6 CSS files.
 
@@ -102,9 +102,7 @@ Please note that you can return the list in other format. You just need to adapt
 
   print 'var cssProperties = new Array(' . join(',', @tab) . ');';
 
-==Use the result with JQuery==
-
-To remove one property from an element ([http://api.jquery.com/css/]):
+h3. To remove one property from an element ([http://api.jquery.com/css/]):
 
   $('#id').css('nameOfTheProperty', '');
 
