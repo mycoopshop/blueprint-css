@@ -1,4 +1,3 @@
-
 # Introduction
 
 This page shows how to create rounded corners and rounded borders with BluePrint and JQuery.
@@ -26,9 +25,13 @@ Call the add-on on the element you want to round:
 
 Copy/Paste the following HTML code to a file (say "test.html"). Then load the file into your browser.
 
-* Make sure to put the JQuery library (jquery-1.4.4.min.js) in the same directory.
-* Make sure to put the JQuery add-on (jquery.corner.js) in the same directory.
-* My CSS definitions may be really bad... I am not good at CSS ;-)
+Make sure to put the JQuery library (jquery-1.4.4.min.js) in the same directory.
+
+Make sure to put the JQuery add-on (jquery.corner.js) in the same directory.
+
+My CSS definitions may be really bad... I am not good at CSS ;-)
+
+
 
 
         <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
