@@ -12,9 +12,9 @@ Original Thread: [[http://groups.google.com/group/blueprintcss/browse_thread/thr
 
 h3. The Perl code
 
-For this script I used the CSS parser from Allen Day and Cal Henderson, which you can find on the Comprehensive Perl Archive Network (aka CPAN) - [http://search.cpan.org/~iamcal/CSS-1.09/CSS.pm].
+For this script I used the CSS parser from Allen Day and Cal Henderson, which you can find on the Comprehensive Perl Archive Network (aka CPAN) - [[http://search.cpan.org/~iamcal/CSS-1.09/CSS.pm]].
 
-You also need a Perl module used to parse the command line - [http://search.cpan.org/~jv/Getopt-Long-2.38/lib/Getopt/Long.pm].
+You also need a Perl module used to parse the command line - [[http://search.cpan.org/~jv/Getopt-Long-2.38/lib/Getopt/Long.pm]].
 
 These two modules can be installed automatically (at least under UNIX).
 
@@ -109,11 +109,13 @@ Please note that you can return the list in other format. You just need to adapt
 
   <code>print 'var cssProperties = new Array(' . join(',', @tab) . ');';</code>
 
-h3. To remove one property from an element ([http://api.jquery.com/css/]):
+h3. JQuery tips
+
+To remove one property from an element ([[http://api.jquery.com/css/]]):
 
   @$('#id').css('nameOfTheProperty', '');@
 
-To remove one property for all children of an element ([http://api.jquery.com/find/]):
+To remove one property for all children of an element ([[http://api.jquery.com/find/]]):
 
   @$('#id').find('*').css('nameOfTheProperty', '');@
 
