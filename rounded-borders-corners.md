@@ -21,7 +21,8 @@ Call the add-on on the element you want to round:
             $('div.outer').corner("10px");
         });
     </script>
-# Full exampploe
+
+# Full example
 
 Copy/Paste the following HTML code to a file (say "test.html"). Then load the file into your browser.
 
