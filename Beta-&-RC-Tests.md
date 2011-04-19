@@ -13,6 +13,7 @@ On this page, we will anounce the start of "beta" and "release canditate" tests 
 
 ***
 ### Official Testers
+1. Kevin A. Cameron [[link follows]]
 We're currently building the group. Your Name will be featured here, along with a link to your site. If you want to assign, please read the last paragraph.
 ***
 If you got a plugin for blueprint or started working on one, please inform us and we will add your plugin here and get someone testing it. 
