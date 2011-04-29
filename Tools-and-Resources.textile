@@ -14,7 +14,8 @@ h3. Cheat Sheets and Templates
 
 h3. Code Generators
 * "Blueprinter":http://ianli.com/blueprinter/ - generates CSS for Blueprint v1.0.
-* "GridCalc":http://www.problem.se/labs/gridcalc/ - Grid calculator and generator, generates CSS for Blueprint v0.9.
+* "GridCalc":http://www.problem.se/labs/gridcalc/ - GridCalc – A visual grid calculator and Blueprint CSS generator
+GridCalc takes the pain and guesswork out of calculating a grid that fits your needs. Enter the width of your page, an approximate range for your column and gutter width and GridCalc calculates all the possible combinations and presents them visually. Once you have found a combination that fits your needs GridCalc can generate the Blueprint CSS for version 0.8, 0.9, 0.9.1 and 1.0.
 * "BlueCalc CSS Generator":http://bluecalc.xily.info/ -- Updated on 2010-08-25
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
 * "Blueprint CSS Architect [ BROKEN LINK ]":http://dblogit.com/examples/bpa/
