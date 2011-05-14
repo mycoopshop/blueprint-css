@@ -1,5 +1,6 @@
 h3. Themes
 Note, that some of the themes are not anymore upto date.
+* "xScape Theme Framework":http://www.dev4press.com/themes/xscape/ [WordPress] (current Blueprint CSS)
 * "Roots Starting Theme":http://www.rootstheme.com/ [WordPress] (based on HTML5 Boilerplate and current Blueprint CSS)
 * "Starter Drupal Theme":http://drupal.org/project/blueprint [Drupal] (outdated - not sure if even blueprint)
 * "Blueprint-WP":http://www.fireandknowledge.org/archives/2007/09/05/blueprint-wordpress-theme/ [Wordpress] (outdated - first version)
