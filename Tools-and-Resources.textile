@@ -1,6 +1,7 @@
 h3. Cheat Sheets and Templates
 
-* "Blueprint cheat sheets":http://www.garethjmsaunders.co.uk/blueprint/ Cheat sheets for versions 0.7.2, 0.8, 0.9.1 and 1.0.1
+* "Blueprint cheat sheets":http://www.garethjmsaunders.co.uk/blueprint/cheatsheets/ Cheat sheets for versions 0.7.2, 0.8, 0.9.1 and 1.0.1
+* "Blueprint placeholder images":http://www.garethjmsaunders.co.uk/blueprint/placeholders/ A collection of nearly 750 placeholder images, optimized for the Blueprint CSS grid, useful for quickly prototyping designs
 * "Grid Tool for Adobe Air":http://coderseye.com/2007/blueprint-css-air-grid-tool.html Creates a grid image that you can lay over your live project view
 * "Gridmaker for Photoshop CS4":http://www.andrewingram.net/articles/gridmaker_for_photoshop_cs4/ PS CS4 extension - allows you to autom. create a PS template for your Blueprint layout. (1)
 * "Paper Grid":http://blueprintcss.org/media/PaperGrid_by_KaiHowells.pdf [A4, PDF, 53kb] You can print this out and use it to visualize/sketch your layouts, wireframes, etc.
