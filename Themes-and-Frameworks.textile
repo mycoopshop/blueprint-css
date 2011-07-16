@@ -16,6 +16,8 @@ h3. Frameworks
 * "Yii":http://www.yiiframework.com/ Fast and flexible php framework with Blueprint built-in
 * "Compass":http://github.com/chriseppstein/compass/ To use blueprint with the "Sass":http://haml.hamptoncatlin.com/docs/rdoc/classes/Sass.html stylesheet language
 * "Simon WP blank Framework":http://simonwebdesign.com/simon-wordpress-framework-blank-theme/ Uses the typography.css file from src and 960gs for the layout
+* "Django Market Default Theme":https://github.com/StephenPower/Collector-City-Market-Place-Themes/ Uses the full Blueprint CSS framework for the default theme. "Production Site:":http://www.greatcoins.com
+
 
 h3. Php Class
 * "Speed up your dev time with this simple & powerfull class":http://www.php-ease.com/classes/blueprint-css.html
