@@ -125,7 +125,7 @@ Here's a quick overview of the other classes you can use in to make your grid:
 
 <dl>
   <dt>@.append-x@</dt><dd>Appends x number of empty columns after a column.</dd>
-  <dt>@.prepend-x@</dt><dd>Preppends x number of empty columns before a column.</dd>
+  <dt>@.prepend-x@</dt><dd>Prepends x number of empty columns before a column.</dd>
   <dt>@.push-x@</dt><dd>Pushes a column x columns to the left. Can be used to swap columns.</dd>
   <dt>@.pull-x@</dt><dd>Pulls a column x columns to the right. Can be used to swap columns.</dd>
   <dt>@.border@</dt><dd>Applies a border to the right side of the column.</dd>
