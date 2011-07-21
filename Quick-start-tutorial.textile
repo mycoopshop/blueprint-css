@@ -117,7 +117,7 @@ So how do you set up a grid? By using classes provided by Blueprint. To create a
   			
 In addition to the spans, there are two important classes you need to know about. First of all, every Blueprint site needs to be wrapped in a div with the class @.container@, which is usually placed right after the body tag. 
 
-Second, the last column in a row (which by default has 24 columns), needs the class @.last@ to remove its left hand margin. Note, however, that each @.span-24@ does not need the @.last@ class, since these always span the entire width of the page.
+Second, the last column in a row (which by default has 24 columns), needs the class @.last@ to remove its right hand margin. Note, however, that each @.span-24@ does not need the @.last@ class, since these always span the entire width of the page.
 
 To create basic grids, this is all you need to know. The grid CSS however, provides many more classes for more intricate designs. To see some of them in action, check out the files in @tests/parts/@. These files demonstrate what's possible with the grid in Blueprint.
 
