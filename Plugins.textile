@@ -17,7 +17,7 @@ More plugins, in various states of development, can be found on Github. They are
 * "SilkSprite":http://github.com/Montoya/blueprint-plugin---silksprite/ Integrates the Silk Icons set as sprites
 * "Pure CSS3 Super Awesome Buttons by zurb.com":https://bitbucket.org/phretor/blueprint-plugin-sab Adds ready-to-use CSS3 buttons
 
-h3. Inofficial Plugins (google - not reviewed or tested)
+h3. Unofficial plugins (google - not reviewed or tested)
 
 * "Actions": http://blueprintcss.widmogrod.info/examples/actions/example_1.html
 * "Messages": http://blueprintcss.widmogrod.info/examples/messages/example_1.html
