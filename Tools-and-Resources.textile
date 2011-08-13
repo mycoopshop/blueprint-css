@@ -20,6 +20,7 @@ GridCalc takes the pain and guesswork out of calculating a grid that fits your n
 * "BlueCalc CSS Generator":http://bluecalc.xily.info/ -- Updated on 2010-08-25
 * "Blueprint Grid CSS Generator":http://kematzy.com/blueprint-generator/
 * "Blueprint CSS Architect [ BROKEN LINK ]":http://dblogit.com/examples/bpa/
+* "Compress.rb Web GUI":http://cjlarose.com/blueprint-css-generator/
 
 h3. Layout Editors (WYSIWYG(What You See Is What You Get))
 
