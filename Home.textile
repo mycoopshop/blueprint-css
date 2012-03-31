@@ -1,4 +1,4 @@
-The Blueprint is a *CSS framework* that aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.
+Blueprint is a *CSS framework* that aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.
 
 * [[Tutorials]] in multiple languages
 * [[Articles]] from around the web
