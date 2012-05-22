@@ -25,6 +25,7 @@ GridCalc takes the pain and guesswork out of calculating a grid that fits your n
 h3. Layout Editors (WYSIWYG(What You See Is What You Get))
 
 * "Construct":http://constructyourcss.com/
+* "Layoutside":http://layoutside.com - An HTML/CSS grid builder and editor.
 * "Blueprint Layout Tool [ SITE NOT CURRENTLY FUNCTIONAL ]":http://www.blueprintlayouttool.com/
 * "Boks - A Visual Grid Editor":http://toki-woki.net/p/Boks/
 * "Blueprint Builder":http://www.delsolsoftware.com/blueprintbuilder/index.html - Grid and HTML layout builder with semantic CSS IDs.
