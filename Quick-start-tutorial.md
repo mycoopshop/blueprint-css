@@ -10,9 +10,9 @@ The word “framework” may be a bit misleading in this context, since BP does 
 Structural Overview
 From the bottom up, here are the CSS layers in Blueprint:
 
-#	CSS reset: Removes any default CSS rules set by each browser.
-#	Typography: Gives you some nice default typography and colors.
-#	Grid: Provides a set of CSS classes for making grid layouts.
+*	CSS reset: Removes any default CSS rules set by each browser.
+*	Typography: Gives you some nice default typography and colors.
+*	Grid: Provides a set of CSS classes for making grid layouts.
 
 The second part of Blueprint are the scripts, which let you customize most
 aspects of the framework, from column count and widths, to output paths and
