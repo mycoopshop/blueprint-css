@@ -12,9 +12,6 @@ by Josh Clayton
 * "Ein einfaches Blog-Gerüst mit dem Blueprint CSS Framework erstellen":http://pehbehbeh.de/webentwicklung/html-css/ein-einfaches-blog-geruest-mit-dem-blueprint-css-framework-erstellen/
 by pehbehbeh
 
-**French:**
-* "Traduction du quick-start tutorial - démarrage rapide avec blueprint (mis à jour - autre site avait une erreur 404)":http://windowslinux.net/index.php/BluePrint#Tutorial_de_D.C3.A9marrage_rapide
-
 **Spanish:**
 * "Manual de Blueprint CSS":http://www.desarrolloweb.com/manuales/manual-blueprint-css.html
 by Miguel Angel Alvarez
