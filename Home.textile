@@ -1,12 +1,228 @@
-Blueprint is a *CSS framework* that aims to cut down on your development time. It gives you a solid foundation to build your project on top of, with an easy-to-use grid, sensible typography, useful plugins, and even a stylesheet for printing.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Intranet MonteSion</title>
+<link href='/intranet/fullcalendar/fullcalendar.css' rel='stylesheet' />
+<link href='/intranet/fullcalendar/fullcalendar.print.css' rel='stylesheet' media='print' />
+<script src='/intranet/jquery/jquery-1.9.1.min.js'></script>
+<script src='/intranet/jquery/jquery-ui-1.10.2.custom.min.js'></script>
+<script src='/intranet/fullcalendar/fullcalendar.min.js'></script>
+<link href="/intranet/glDatePicker.default.css" rel="stylesheet" type="text/css">
+<link href="/intranet/cssmenu/menu_assets/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	left: 769px;
+	top: 193px;
+	width: 279px;
+	height: 146px;
+	z-index: 1;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#apDiv2 {
+	position: absolute;
+	left: 730px;
+	top: 84px;
+	width: 265px;
+	height: 34px;
+	z-index: 2;
+}
+#apDiv2 table tr td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#apDiv3 {
+	position: absolute;
+	left: 57px;
+	top: 20px;
+	width: 372px;
+	height: 150px;
+	z-index: 3;
+}
+#apDiv4 {
+	position: absolute;
+	left: 62px;
+	top: 244px;
+	width: 414px;
+	height: 402px;
+	z-index: 4;
+}
+#apDiv5 {
+	position: absolute;
+	left: 136px;
+	top: 329px;
+	width: 500px;
+	height: 310px;
+	z-index: 5;
+}
+#apDiv6 {
+	position: absolute;
+	left: 552px;
+	top: 296px;
+	width: 430px;
+	height: 165px;
+	z-index: 6;
+}
+#apDiv7 {
+	position: absolute;
+	left: 13px;
+	top: 690px;
+	width: 515px;
+	height: 375px;
+	z-index: 7;
+}
+#apDiv8 {
+	position: absolute;
+	left: 57px;
+	top: 175px;
+	width: 1151px;
+	height: 30px;
+	z-index: 8;
+}
+#apDiv9 {
+	position: absolute;
+	left: 1044px;
+	top: 548px;
+	width: 176px;
+	height: 67px;
+	z-index: 9;
+}
+#apDiv10 {
+	position: absolute;
+	left: 1046px;
+	top: 533px;
+	width: 131px;
+	height: 39px;
+	z-index: 10;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #FFF;
+}
+#apDiv11 {
+	position: absolute;
+	left: 1032px;
+	top: 39px;
+	width: 205px;
+	height: 73px;
+	z-index: 11;
+}
+#apDiv12 {
+	position: absolute;
+	left: 971px;
+	top: 39px;
+	width: 60px;
+	height: 66px;
+	z-index: 12;
+}
+#apDiv13 {
+	position: absolute;
+	left: 688px;
+	top: 134px;
+	width: 549px;
+	height: 40px;
+	z-index: 13;
+}
+#apDiv13 table tr td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+</style>
+</head>
 
-* [[Tutorials]] in multiple languages
-* [[Articles]] from around the web
-* [[Tools and Resources]] for Blueprint development
-* [[Plugins]] for example, to make the grid fluid or add sprites
-* [[Themes and Frameworks]] to get a quick start with Drupal, Wordpress, etc.
-* [[Mods, Forks and Alternatives]] if Blueprint is not quite your thing
-* [[Browser Compatibility List]] for checking if Blueprint is compatible with your audience
-* [[License]] Read the modified MIT License that applies to Blueprint
+<body>
+<div id="apDiv6">
+  
+  <style type="text/css">
+body{
+	background-color: black:
+	padding:0px;
+	margin:0px;
+	width:200px;
+	height:200px;
+}
+img{
+	-webkit-transition-propety:opacity;
+	-webkit-transition-duration:2s;
+	position: absolute;
+}
+img.fade-out{opacity:0;}
+img.fade-in{:1;}
 
-The official website for Blueprint can be found at "BlueprintCSS.org":http://blueprintcss.org/
+</style>
+<img src="/intranet/slides/102137_001.png" width="437" height="264" />
+<img src="/intranet/slides/131225_001.png" width="437" height="264" />
+<img src="/intranet/slides/lona summer sion 2 x 3 (Custom).jpg" width="437" height="264" />
+<script>
+var interval = 4 * 20; // Seconds between change
+var images = document.getElementsByTagName("img");
+var imageArray = [];
+var imageCount = images.length;
+var current = 0;
+
+var randomize = function(){
+return (Math.round(Math.random() * 3 - 3));
+}
+for(var i = 0; i < imageCount; i++){
+images[i].className = 'fade-out';
+imageArray[i] = images[i];
+}
+imageArray.sort(randomize);
+
+var fade = function(){
+
+imageArray[current++].className = 'fade-out';
+if(current == imageCount){
+current = 0;
+imageArray.sort(randomize);
+}
+imageArray[current].className = 'fade-in';
+
+setTimeout(fade, interval * 100);
+};
+fade();
+</script>
+
+</div>
+<div id="apDiv3"><img src="/intranet/images/logo montesion2.png" width="372" height="151" /></div>
+<div id="apDiv4"><iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=430&amp;wkst=2&amp;hl=es&amp;bgcolor=%23ccffff&amp;src=i3ue4t0kare7l9nlqr93oug9o8%40group.calendar.google.com&amp;color=%23B1440E&amp;src=rpmontesion3%40gmail.com&amp;color=%232F6309&amp;src=es.mexican%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;src=%23contacts%40group.v.calendar.google.com&amp;color=%23875509&amp;ctz=America%2FMexico_City" style=" border:solid 1px #777 " width="430" height="430" frameborder="0" scrolling="no"></iframe></div>
+<div id="apDiv8">
+  <ul>
+   <li class='active'><a href='#'><span>Home</span></a></li>
+   <li><a href='#'><span>Preguntas Frecuentes</span></a></li>
+   <li><a href='#'><span>Tutoriales</span></a></li>
+   <li><a href='#'><span>Reseteo de Contraseña</span></a></li>
+   <li class='last'><a href='#'><span>Contactanos</span></a></li>
+</ul>
+</div>
+<div id="apDiv9">
+  <table width="158" height="62" border="0">
+    <tr>
+      <td width="35"><a href="https://www.facebook.com/pages/MonteSion-Centro-Educativo/442122829174018?fref=ts"><img src="/intranet/images/facebook.jpg" width="25" height="25" /></a></td>
+      <td width="35"><a href="https://twitter.com/montesionze"><img src="/intranet/images/twitter.jpg" width="25" height="25" /></a></td>
+      <td width="35"><a href="http://www.youtube.com/channel/UC95CTxt6hrjIzz6ys-30uGw?feature=mhee"><img src="/intranet/images/youtube.jpg" width="25" height="25" /></a></td>
+      <td width="35"><a href="http://cemsesze.wordpress.com/"><img src="/intranet/images/blogger.jpg" width="25" height="25" /></a></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv10">Siguenos en:</div>
+<div id="apDiv11"><img src="/intranet/images/cemses intranet.png" width="203" height="70" /></div>
+<div id="apDiv12"></div>
+<div id="apDiv13">
+<form id="form1" name="form1" method="post" action="/intranet/validar.php">
+  <table width="549" height="35" border="0">
+    <tr>
+      <td width="55"> Usuario:</td>
+      <td width="155"><input type="text" name="username" id="username" /></td>
+      <td width="76">Contraseña:</td>
+      <td width="157"><input type="password" name="password" id="password" /></td>
+      <td width="133"><input type="submit" name="button" id="button" value="Ingresar" /></td>
+    </tr>
+  </table>
+    </form>
+</div>
+</body>
+</html>
