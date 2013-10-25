@@ -15,9 +15,9 @@ More plugins, in various states of development, can be found on Github. They are
 * "Tabs":http://github.com/Montoya/blueprint-plugin---tabs/
 * "Liquid Blueprint":http://github.com/Montoya/blueprint-plugin---liquidgrid/ Makes the Blueprint Grid liquid (fluid)
 * "SilkSprite":http://github.com/Montoya/blueprint-plugin---silksprite/ Integrates the Silk Icons set as sprites
-* "Pure CSS3 Super Awesome Buttons by zurb.com":https://bitbucket.org/phretor/blueprint-plugin-sab Adds ready-to-use CSS3 buttons
+* _-"Pure CSS3 Super Awesome Buttons by zurb.com":https://bitbucket.org/phretor/blueprint-plugin-sab Adds ready-to-use CSS3 buttons-_
 
 h3. Unofficial plugins (google - not reviewed or tested)
 
-* "Actions": http://blueprintcss.widmogrod.info/examples/actions/example_1.html
-* "Messages": http://blueprintcss.widmogrod.info/examples/messages/example_1.html
+* _-"Actions": http://blueprintcss.widmogrod.info/examples/actions/example_1.html-_
+* _-"Messages": http://blueprintcss.widmogrod.info/examples/messages/example_1.html-_
