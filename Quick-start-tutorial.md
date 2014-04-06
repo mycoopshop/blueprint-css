@@ -52,30 +52,18 @@ Classes for Typography
 While the typography of Blueprint mainly applies itself, there’s a few classes
 provided. Here’s a list of their names and what they do:
 
-.small  
-Makes the text of this element smaller.  
-.large  
-Makes the text of this element larger.  
-.hide  
-Hides an element.  
-.quiet  
-Tones down the font color for this element.  
-.loud  
-Makes this elements text black.  
-.highlight  
-Adds a yellow background to the text.  
-.added  
-Adds green background to the text.  
-.removed  
-Adds red background to the text.  
-.first  
-Removes any left sided margin/padding from the element.  
-.last  
-Removes any right sided margin/padding from the element.  
-.top  
-Removes any top margin/padding from the element.  
-.bottom  
-Removes any bottom margin/padding from the element.  
+`.small` Makes the text of this element smaller.  
+`.large` Makes the text of this element larger.  
+`.hide` Hides an element.  
+`.quiet` Tones down the font color for this element.  
+`.loud` Makes this elements text black.  
+`.highlight` Adds a yellow background to the text.  
+`.added` Adds green background to the text.  
+`.removed` Adds red background to the text.  
+`.first` Removes any left sided margin/padding from the element.  
+`.last` Removes any right sided margin/padding from the element.  
+`.top` Removes any top margin/padding from the element.  
+`.bottom` Removes any bottom margin/padding from the element.  
 
 Styling Forms
 -------------
